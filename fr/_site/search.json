@@ -34,7 +34,7 @@
     "href": "projects/dashboard_model_icpsr_2024.html",
     "title": "Modèle shinydashboard pour ICPSR 2024",
     "section": "",
-    "text": "Tableau de bord interactif créé pour le cours “Interactive Visualization, Dashboards, and Apps with R and Shiny” en tant que teaching assistant. Ce tableau de bord offre un résumé des données des élections américaines de 2016.\n\n\n\nCours : Interactive Visualization, Dashboards, and Apps with R and Shiny\nInstructeur : Yannick Dufresne\nDates : 29 au 31 juillet 2024\n\nVoir le Tableau de Bord",
+    "text": "Tableau de bord interactif créé pour l’atelier thématique “Interactive Visualization, Dashboards, and Apps with R and Shiny” en tant qu’assistant d’enseignement. Ce tableau de bord offre un résumé des données des élections américaines de 2016.",
     "crumbs": [
       "Tableaux de Bord Interactifs",
       "Dashboard Model"
@@ -44,11 +44,33 @@
     "objectID": "projects/dashboard_model_icpsr_2024.html#détails-du-cours",
     "href": "projects/dashboard_model_icpsr_2024.html#détails-du-cours",
     "title": "Modèle shinydashboard pour ICPSR 2024",
-    "section": "",
-    "text": "Cours : Interactive Visualization, Dashboards, and Apps with R and Shiny\nInstructeur : Yannick Dufresne\nDates : 29 au 31 juillet 2024\n\nVoir le Tableau de Bord",
+    "section": "Détails du cours",
+    "text": "Détails du cours\n\nCours : Interactive Visualization, Dashboards, and Apps with R and Shiny\nInstructeur : Yannick Dufresne\nDates : 29 au 31 juillet 2024\n\nVoir le Tableau de Bord",
     "crumbs": [
       "Tableaux de Bord Interactifs",
       "Dashboard Model"
+    ]
+  },
+  {
+    "objectID": "projects/explore_regression.html",
+    "href": "projects/explore_regression.html",
+    "title": "Exploration des paramètres d’une régression linéaire",
+    "section": "",
+    "text": "Cette interface Shiny permet d’explorer les différents paramètres d’une régression linéaire de manière interactive. Elle a été conçue pour faciliter la compréhension des effets des paramètres sur les résultats de la régression.\n\n\n\nTechnologie utilisée : Shiny\nObjectif : Fournir un outil interactif pour visualiser et comprendre les paramètres d’une régression linéaire.\n\nVoir l’Application Shiny",
+    "crumbs": [
+      "Tableaux de Bord Interactifs",
+      "Exploration des paramètres d'une régression linéaire"
+    ]
+  },
+  {
+    "objectID": "projects/explore_regression.html#détails-du-projet",
+    "href": "projects/explore_regression.html#détails-du-projet",
+    "title": "Exploration des paramètres d’une régression linéaire",
+    "section": "",
+    "text": "Technologie utilisée : Shiny\nObjectif : Fournir un outil interactif pour visualiser et comprendre les paramètres d’une régression linéaire.\n\nVoir l’Application Shiny",
+    "crumbs": [
+      "Tableaux de Bord Interactifs",
+      "Exploration des paramètres d'une régression linéaire"
     ]
   }
 ]

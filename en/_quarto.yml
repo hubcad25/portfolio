@@ -7,13 +7,22 @@ website:
   sidebar:
     style: "docked"
     logo: "images/avatar.png"
+    tools:
+      - icon: twitter
+        href: https://twitter.com/HubCadieux25
+      - icon: linkedin
+        href: https://www.linkedin.com/in/hubert-cadieux-7172571a0
+      - icon: github
+        href: https://github.com/hubcad25
+      - text: '{{< iconify academicons:google-scholar-square >}}'
+        href: https://scholar.google.com/citations?user=VF6HfPoAAAAJ&hl=fr&oi=ao
     search: true
     contents:
       - text: "Home"
         href: index.qmd
       - section: "Interactive Dashboards"
         contents:
-          - text: "Dashboard Model"
+          - text: "`shinydashboard` Model ICPSR 2024"
             href: projects/dashboard_model_icpsr_2024.qmd
           - text: "Exploring Regression Parameters"
             href: projects/explore_regression.qmd

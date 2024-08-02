@@ -6,8 +6,6 @@ categories: ["Interactive Dashboards", "Shiny"]
 description: "Interactive dashboard created for the course 'Interactive Visualization, Dashboards, and Apps with R and Shiny' as a teaching assistant."
 ---
 
-# Dashboard Model
-
 Interactive dashboard created for the topical workshop "Interactive Visualization, Dashboards, and Apps with R and Shiny" at ICPSR 2024 as a teaching assistant. This dashboard provides a summary of the data from the 2016 US elections.
 
 ## Course Details

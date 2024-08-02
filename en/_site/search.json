@@ -34,21 +34,54 @@
     "href": "projects/dashboard_model_icpsr_2024.html",
     "title": "shinydashboard Model for ICPSR 2024",
     "section": "",
-    "text": "Interactive dashboard created for the topical workshop “Interactive Visualization, Dashboards, and Apps with R and Shiny” at ICPSR 2024 as a teaching assistant. This dashboard provides a summary of the data from the 2016 US elections.\n\n\n\nCourse: Interactive Visualization, Dashboards, and Apps with R and Shiny\nInstructor: Yannick Dufresne\nDates: July 29-31, 2024\n\nView the Dashboard",
+    "text": "Interactive dashboard created for the topical workshop “Interactive Visualization, Dashboards, and Apps with R and Shiny” at ICPSR 2024 as a teaching assistant. This dashboard provides a summary of the data from the 2016 US elections.",
     "crumbs": [
       "Interactive Dashboards",
-      "Dashboard Model"
+      "`shinydashboard` Model ICPSR 2024"
     ]
   },
   {
     "objectID": "projects/dashboard_model_icpsr_2024.html#course-details",
     "href": "projects/dashboard_model_icpsr_2024.html#course-details",
     "title": "shinydashboard Model for ICPSR 2024",
-    "section": "",
-    "text": "Course: Interactive Visualization, Dashboards, and Apps with R and Shiny\nInstructor: Yannick Dufresne\nDates: July 29-31, 2024\n\nView the Dashboard",
+    "section": "Course Details",
+    "text": "Course Details\n\nCourse: Interactive Visualization, Dashboards, and Apps with R and Shiny\nInstructor: Yannick Dufresne\nDates: July 29-31, 2024\n\nView the Dashboard",
     "crumbs": [
       "Interactive Dashboards",
-      "Dashboard Model"
+      "`shinydashboard` Model ICPSR 2024"
+    ]
+  },
+  {
+    "objectID": "projects/explore_regression.html",
+    "href": "projects/explore_regression.html",
+    "title": "Exploring Linear Regression Parameters",
+    "section": "",
+    "text": "This Shiny interface allows users to explore the various parameters of a linear regression interactively. It is designed to facilitate understanding of how parameters affect the results of the regression.\n\n\n\nTechnology Used: Shiny\nObjective: To provide an interactive tool for visualizing and understanding the parameters of a linear regression.\n\nView the Shiny Application",
+    "crumbs": [
+      "Interactive Dashboards",
+      "Exploring Regression Parameters"
+    ]
+  },
+  {
+    "objectID": "projects/explore_regression.html#détails-du-projet",
+    "href": "projects/explore_regression.html#détails-du-projet",
+    "title": "Exploration des paramètres d’une régression linéaire",
+    "section": "",
+    "text": "Technologie utilisée : Shiny\nObjectif : Fournir un outil interactif pour visualiser et comprendre les paramètres d’une régression linéaire.\n\nVoir l’Application Shiny",
+    "crumbs": [
+      "Interactive Dashboards",
+      "Exploring Regression Parameters"
+    ]
+  },
+  {
+    "objectID": "projects/explore_regression.html#project-details",
+    "href": "projects/explore_regression.html#project-details",
+    "title": "Exploring Linear Regression Parameters",
+    "section": "",
+    "text": "Technology Used: Shiny\nObjective: To provide an interactive tool for visualizing and understanding the parameters of a linear regression.\n\nView the Shiny Application",
+    "crumbs": [
+      "Interactive Dashboards",
+      "Exploring Regression Parameters"
     ]
   }
 ]
