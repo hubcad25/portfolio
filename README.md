@@ -38,7 +38,7 @@ Ce README liste les projets que je pourrais inclure dans mon portfolio. Chaque p
   - Toutes les visualisations que je peux retrouver,
   - Lien vers articles de journaux
 
-- ** Élections 2021**
+- **Élections 2021**
   - Toutes les visualisations que je peux retrouver
 
 - **Rapport NPS MCQ**
