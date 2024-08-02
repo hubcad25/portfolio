@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Hubert Cadieux - Portfolio"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - section: "Interactive Dashboards"
+        contents:
+          - text: "Dashboard Model"
+            href: projects/dashboard_model.qmd
+          - text: "Exploring Regression Parameters"
+            href: projects/explore_regression.qmd
+      - section: "Shiny Applications"
+        contents:
+          - text: "Structuro"
+            href: projects/structuro.qmd
+      - section: "Data Visualizations"
+        contents:
+          - text: "Journalist Twittersphere"
+            href: projects/twittosphere_journalistes.qmd
+          - text: "Candidates Twittersphere"
+            href: projects/twittosphere_candidats.qmd
+          - text: "US 2024 Election Forecasts"
+            href: projects/forecasts_us_2024.qmd
+      - section: "Predictive Analysis"
+        contents:
+          - text: "Support for Quebec Tramway"
+            href: projects/tramway_qc.qmd

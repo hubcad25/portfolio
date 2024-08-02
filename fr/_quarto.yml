@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Hubert Cadieux - Portfolio"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Accueil"
+        href: index.qmd
+      - section: "Tableaux de Bord Interactifs"
+        contents:
+          - text: "Dashboard Model"
+            href: projects/dashboard_model.qmd
+          - text: "Exploration des paramètres d'une régression linéaire"
+            href: projects/explore_regression.qmd
+      - section: "Applications Shiny"
+        contents:
+          - text: "Structuro"
+            href: projects/structuro.qmd
+      - section: "Visualisations de Données"
+        contents:
+          - text: "Twittosphère des Journalistes"
+            href: projects/twittosphere_journalistes.qmd
+          - text: "Twittosphère des Candidats"
+            href: projects/twittosphere_candidats.qmd
+          - text: "Prévisions Électorales aux États-Unis 2024"
+            href: projects/forecasts_us_2024.qmd
+      - section: "Analyses Prédictives"
+        contents:
+          - text: "Support au Tramway à Québec"
+            href: projects/tramway_qc.qmd
