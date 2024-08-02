@@ -56,7 +56,7 @@
     "href": "projects/explore_regression.html",
     "title": "Exploration des paramètres d’une régression linéaire",
     "section": "",
-    "text": "Cette interface Shiny permet d’explorer les différents paramètres d’une régression linéaire de manière interactive. Elle a été conçue pour faciliter la compréhension des effets des paramètres sur les résultats de la régression.\n\n\n\nTechnologie utilisée : Shiny\nObjectif : Fournir un outil interactif pour visualiser et comprendre les paramètres d’une régression linéaire.\n\nVoir l’Application Shiny",
+    "text": "Cette interface Shiny permet d’explorer les différents paramètres d’une régression linéaire de manière interactive. Elle a été conçue pour faciliter la compréhension des effets des paramètres sur les résultats de la régression.",
     "crumbs": [
       "Tableaux de Bord Interactifs",
       "Exploration des paramètres d'une régression linéaire"
@@ -66,8 +66,8 @@
     "objectID": "projects/explore_regression.html#détails-du-projet",
     "href": "projects/explore_regression.html#détails-du-projet",
     "title": "Exploration des paramètres d’une régression linéaire",
-    "section": "",
-    "text": "Technologie utilisée : Shiny\nObjectif : Fournir un outil interactif pour visualiser et comprendre les paramètres d’une régression linéaire.\n\nVoir l’Application Shiny",
+    "section": "Détails du projet",
+    "text": "Détails du projet\n\nTechnologie utilisée : Shiny\nObjectif : Fournir un outil interactif pour visualiser et comprendre les paramètres d’une régression linéaire.\n\nVoir l’Application Shiny",
     "crumbs": [
       "Tableaux de Bord Interactifs",
       "Exploration des paramètres d'une régression linéaire"

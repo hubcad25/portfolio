@@ -6,8 +6,6 @@ categories: ["Tableaux de Bord Interactifs", "Shiny", "Éducatif"]
 description: "Interface Shiny permettant d'explorer les paramètres d'une régression linéaire."
 ---
 
-# Exploration des paramètres d'une régression linéaire
-
 Cette interface Shiny permet d'explorer les différents paramètres d'une régression linéaire de manière interactive. Elle a été conçue pour faciliter la compréhension des effets des paramètres sur les résultats de la régression.
 
 ## Détails du projet

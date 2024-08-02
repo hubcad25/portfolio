@@ -24,7 +24,7 @@ website:
         href: index.qmd
       - section: "Tableaux de Bord Interactifs"
         contents:
-          - text: "Dashboard Model"
+          - text: "Modèle `shinydashboard` ICPSR 2024"
             href: projects/dashboard_model_icpsr_2024.qmd
           - text: "Exploration des paramètres d'une régression linéaire"
             href: projects/explore_regression.qmd

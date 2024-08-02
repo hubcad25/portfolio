@@ -6,8 +6,6 @@ categories: ["Interactive Dashboards", "Shiny", "Educational"]
 description: "Shiny interface for exploring the parameters of a linear regression."
 ---
 
-# Exploring Linear Regression Parameters
-
 This Shiny interface allows users to explore the various parameters of a linear regression interactively. It is designed to facilitate understanding of how parameters affect the results of the regression.
 
 ## Project Details
