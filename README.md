@@ -8,10 +8,6 @@ Ce README liste les projets que je pourrais inclure dans mon portfolio. Chaque p
 
 ### Tableaux de Bord Interactifs
 
-- **Dashboard Model**
-  - Description : Tableau de bord interactif créé pour le cours "Interactive Visualization, Dashboards, and Apps with R and Shiny" en tant que teaching assistant.
-  - Lien : [Dashboard Model](https://clessn.shinyapps.io/dashboard_model/)
-
 - **Exploration des paramètres d'une régression linéaire**
   - Description : Interface Shiny permettant d'explorer les paramètres d'une régression linéaire.
   - Lien : [Explore Regression](https://clessn.shinyapps.io/explore_regression/)
