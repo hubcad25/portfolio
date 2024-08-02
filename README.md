@@ -6,12 +6,6 @@ Ce README liste les projets que je pourrais inclure dans mon portfolio. Chaque p
 
 ## Projets à inclure
 
-### Tableaux de Bord Interactifs
-
-- **Exploration des paramètres d'une régression linéaire**
-  - Description : Interface Shiny permettant d'explorer les paramètres d'une régression linéaire.
-  - Lien : [Explore Regression](https://clessn.shinyapps.io/explore_regression/)
-
 ### Applications Shiny
 
 - **Structuro**
@@ -58,25 +52,3 @@ Ce README liste les projets que je pourrais inclure dans mon portfolio. Chaque p
 - **Présentations de Conférences**
   - **Volatilité et Potentiel de Croissance des Partis Politiques au Québec**
     - Description : Présentation sur les dynamiques électorales et la volatilité des partis politiques.
-      
-/fr
-  ├── projects
-  │   ├── dashboard_model.qmd
-  │   ├── explore_regression.qmd
-  │   ├── structuro.qmd
-  │   ├── twittosphere_journalistes.qmd
-  │   ├── twittosphere_candidats.qmd
-  │   ├── forecasts_us_2024.qmd
-  │   ├── tramway_qc.qmd
-  ├── index.qmd
-/en
-  ├── projects
-  │   ├── dashboard_model.qmd
-  │   ├── explore_regression.qmd
-  │   ├── structuro.qmd
-  │   ├── twittosphere_journalistes.qmd
-  │   ├── twittosphere_candidats.qmd
-  │   ├── forecasts_us_2024.qmd
-  │   ├── tramway_qc.qmd
-  ├── index.qmd
-/_quarto.yml
