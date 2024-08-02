@@ -1,0 +1,14 @@
+---
+title: "Accueil"
+---
+
+# Bienvenue sur le Portfolio de Hubert Cadieux
+
+## À propos de moi
+
+Je suis un analyste de données freelance avec 4 ans d'expérience en analyse et modélisation de données, ainsi qu'en visualisation avancée. Mes compétences incluent l'utilisation de R, ggplot2, Shiny, Quarto, SQL, Python, et bien plus encore.
+
+## Contact
+
+Pour plus d'informations, vous pouvez me contacter à [hubertcadieux@gmail.com](mailto:hubertcadieux@gmail.com) ou via [LinkedIn](https://www.linkedin.com/in/hubert-cadieux-7172571a0).
+

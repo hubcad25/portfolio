@@ -1,0 +1,13 @@
+---
+title: "Home"
+---
+
+# Welcome to Hubert Cadieux's Portfolio
+
+## About Me
+
+I am a freelance data analyst with 4 years of experience in data analysis and modeling, as well as advanced visualization. My skills include using R, ggplot2, Shiny, Quarto, SQL, Python, and more.
+
+## Contact
+
+For more information, you can contact me at [hubertcadieux@gmail.com](mailto:hubertcadieux@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/hubert-cadieux-7172571a0).

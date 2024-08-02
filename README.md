@@ -63,34 +63,24 @@ Ce README liste les projets que je pourrais inclure dans mon portfolio. Chaque p
   - **Volatilité et Potentiel de Croissance des Partis Politiques au Québec**
     - Description : Présentation sur les dynamiques électorales et la volatilité des partis politiques.
       
-## Compétences Techniques
-
-- **Langages de Programmation**
-  - R (ggplot2, Shiny, dplyr, tidyr)
-  - Intermédiaire: Python (pandas, scikit-learn)
-  - Intermédiaire: SQL
-
-- **Outils et Plateformes**
-  - Quarto
-  - Beamer
-  - LaTeX
-  - AWS
-  - Google Analytics
-
-- **Analyse et Modélisation de Données**
-  - Régressions linéaires et logistiques
-  - RandomForest
-  - Inférence causale
-
-- **Visualisation de Données**
-  - Graphiques interactifs avec Shiny
-  - Visualisations complexes avec ggplot2
-
-- **Gestion de Projet**
-  - Suivi de projets en utilisant Notion
-  - Coordination avec des équipes pluridisciplinaires
-
-## Contact
-
-- **Email** : hubertcadieux@gmail.com
-- **LinkedIn** : [Hubert Cadieux](https://www.linkedin.com/in/hubert-cadieux-7172571a0)
+/fr
+  ├── projects
+  │   ├── dashboard_model.qmd
+  │   ├── explore_regression.qmd
+  │   ├── structuro.qmd
+  │   ├── twittosphere_journalistes.qmd
+  │   ├── twittosphere_candidats.qmd
+  │   ├── forecasts_us_2024.qmd
+  │   ├── tramway_qc.qmd
+  ├── index.qmd
+/en
+  ├── projects
+  │   ├── dashboard_model.qmd
+  │   ├── explore_regression.qmd
+  │   ├── structuro.qmd
+  │   ├── twittosphere_journalistes.qmd
+  │   ├── twittosphere_candidats.qmd
+  │   ├── forecasts_us_2024.qmd
+  │   ├── tramway_qc.qmd
+  ├── index.qmd
+/_quarto.yml
