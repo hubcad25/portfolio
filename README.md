@@ -37,6 +37,7 @@ Ce README liste les projets que je pourrais inclure dans mon portfolio. Chaque p
 - **Élections 2022**
   - Toutes les visualisations que je peux retrouver,
   - Lien vers articles de journaux
+  - Aller voir dossier PortesOuvertes
 
 - **Élections 2021**
   - Toutes les visualisations que je peux retrouver
