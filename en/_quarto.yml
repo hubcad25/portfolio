@@ -6,6 +6,7 @@ website:
   title: "Hubert Cadieux - Portfolio"
   sidebar:
     style: "docked"
+    logo: "images/avatar.png"
     search: true
     contents:
       - text: "Home"
@@ -13,7 +14,7 @@ website:
       - section: "Interactive Dashboards"
         contents:
           - text: "Dashboard Model"
-            href: projects/dashboard_model.qmd
+            href: projects/dashboard_model_icpsr_2024.qmd
           - text: "Exploring Regression Parameters"
             href: projects/explore_regression.qmd
       - section: "Shiny Applications"
@@ -32,3 +33,4 @@ website:
         contents:
           - text: "Support for Quebec Tramway"
             href: projects/tramway_qc.qmd
+      - section: "My CV"

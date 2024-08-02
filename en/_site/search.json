@@ -1,0 +1,43 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I am a freelance data analyst with 4 years of experience in data analysis and modeling, as well as advanced visualization. My skills include using R, ggplot2, Shiny, Quarto, SQL, Python, and more.\n\n\n\nFor more information, you can contact me at hubertcadieux@gmail.com or via LinkedIn.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "I am a freelance data analyst with 4 years of experience in data analysis and modeling, as well as advanced visualization. My skills include using R, ggplot2, Shiny, Quarto, SQL, Python, and more.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "",
+    "text": "For more information, you can contact me at hubertcadieux@gmail.com or via LinkedIn.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "projects/dashboard_model_icpsr_2024.html",
+    "href": "projects/dashboard_model_icpsr_2024.html",
+    "title": "Modèle shinydashboard pour ICPSR 2024",
+    "section": "",
+    "text": "Dashboard Model\nTableau de bord interactif créé pour le cours “Interactive Visualization, Dashboards, and Apps with R and Shiny” en tant que teaching assistant.\nVoir le Tableau de Bord",
+    "crumbs": [
+      "Interactive Dashboards",
+      "Dashboard Model"
+    ]
+  }
+]

@@ -6,6 +6,7 @@ website:
   title: "Hubert Cadieux - Portfolio"
   sidebar:
     style: "docked"
+    logo: "images/avatar.png"
     search: true
     contents:
       - text: "Accueil"
@@ -13,7 +14,7 @@ website:
       - section: "Tableaux de Bord Interactifs"
         contents:
           - text: "Dashboard Model"
-            href: projects/dashboard_model.qmd
+            href: projects/dashboard_model_icpsr_2024.qmd
           - text: "Exploration des paramètres d'une régression linéaire"
             href: projects/explore_regression.qmd
       - section: "Applications Shiny"
