@@ -32,9 +32,20 @@
   {
     "objectID": "projects/dashboard_model_icpsr_2024.html",
     "href": "projects/dashboard_model_icpsr_2024.html",
-    "title": "Modèle shinydashboard pour ICPSR 2024",
+    "title": "shinydashboard Model for ICPSR 2024",
     "section": "",
-    "text": "Dashboard Model\nTableau de bord interactif créé pour le cours “Interactive Visualization, Dashboards, and Apps with R and Shiny” en tant que teaching assistant.\nVoir le Tableau de Bord",
+    "text": "Interactive dashboard created for the topical workshop “Interactive Visualization, Dashboards, and Apps with R and Shiny” at ICPSR 2024 as a teaching assistant. This dashboard provides a summary of the data from the 2016 US elections.\n\n\n\nCourse: Interactive Visualization, Dashboards, and Apps with R and Shiny\nInstructor: Yannick Dufresne\nDates: July 29-31, 2024\n\nView the Dashboard",
+    "crumbs": [
+      "Interactive Dashboards",
+      "Dashboard Model"
+    ]
+  },
+  {
+    "objectID": "projects/dashboard_model_icpsr_2024.html#course-details",
+    "href": "projects/dashboard_model_icpsr_2024.html#course-details",
+    "title": "shinydashboard Model for ICPSR 2024",
+    "section": "",
+    "text": "Course: Interactive Visualization, Dashboards, and Apps with R and Shiny\nInstructor: Yannick Dufresne\nDates: July 29-31, 2024\n\nView the Dashboard",
     "crumbs": [
       "Interactive Dashboards",
       "Dashboard Model"
