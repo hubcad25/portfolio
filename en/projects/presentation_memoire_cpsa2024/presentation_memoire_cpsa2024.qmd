@@ -6,8 +6,8 @@ format:
     theme: dark
     incremental: true
     fontsize: 31pt
-  pdf:
-    fontsize: 31pt
+  #pdf:
+  #  fontsize: 31pt
 title-slide-attributes: 
   data-notes: "Hello, I am Hubert Cadieux. Today, I present the beginning of my thesis project on the potential for growth of political parties by studying the case of Quebec. A topic that needs to be well-theorized and conceptualized before it can be operationalized and studied in a more systematic context, in order to interpret and make strategic recommendations based on observational data.<br>
 The concept is somewhat used in media articles, for example, without really being theorized and validated."
