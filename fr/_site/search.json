@@ -37,7 +37,7 @@
     "text": "Tableau de bord interactif créé pour l’atelier thématique “Interactive Visualization, Dashboards, and Apps with R and Shiny” en tant qu’assistant d’enseignement. Ce tableau de bord offre un résumé des données des élections américaines de 2016.",
     "crumbs": [
       "Tableaux de Bord Interactifs",
-      "Dashboard Model"
+      "Modèle `shinydashboard` ICPSR 2024"
     ]
   },
   {
@@ -48,7 +48,7 @@
     "text": "Détails du cours\n\nCours : Interactive Visualization, Dashboards, and Apps with R and Shiny\nInstructeur : Yannick Dufresne\nDates : 29 au 31 juillet 2024\n\nVoir le Tableau de Bord",
     "crumbs": [
       "Tableaux de Bord Interactifs",
-      "Dashboard Model"
+      "Modèle `shinydashboard` ICPSR 2024"
     ]
   },
   {
