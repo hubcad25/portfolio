@@ -44,4 +44,8 @@ website:
         contents:
           - text: "Support au Tramway à Québec"
             href: projects/tramway_qc.qmd
-      - se
+      - section: "Mémoire de Maitrise"
+        contents:
+          - text: "Présentation CPSA 2024"
+            href: projects/presentation_memoire_cpsa2024.html
+      - section: "Mon CV"
