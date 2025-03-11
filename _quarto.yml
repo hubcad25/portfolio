@@ -19,6 +19,7 @@ website:
           - text: "Resume"
             href: en/cv/cv.html
 
+theme: sandstone
 lang: fr
 languages:
   fr:

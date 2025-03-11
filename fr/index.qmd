@@ -4,5 +4,5 @@ title: "portfolio"
 
 ## Quarto
 
-Quarto vous permet de combiner contenu et code  v rifiable dans un document termin . Pour en savoir plus sur Quarto, voir <https://quarto.org>.
+Quarto vous permet de combiner contenu et code  vérifiable dans un document terminé. Pour en savoir plus sur Quarto, voir <https://quarto.org>.
 
