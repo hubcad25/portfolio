@@ -3,7 +3,7 @@ project:
   output-dir: "."
 
 website:
-  title: "Mon Portfolio"
+  title: "Hubert Cadieux"
   navbar:
     right:
       - text: "Français"
@@ -19,7 +19,7 @@ website:
           - text: "Resume"
             href: en/cv/cv.html
 
-theme: sandstone
+theme: zephyr
 lang: fr
 languages:
   fr:

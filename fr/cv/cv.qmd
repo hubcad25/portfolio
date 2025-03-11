@@ -1,22 +1,61 @@
 ---
 title: "Hubert Cadieux"
-author: "Your Name"
-date: "`r Sys.Date()`"
+subtitle: "Scientifique de données"
+#author: "Your Name"
+#date: "`r Sys.Date()`"
 format:
-  html: default
+  html:
+    css: styles.css
+    page-layout: custom
   pdf: default
+lang: fr
 ---
 
-# Introduction
+::: {.layout}
+::: {.timeline}
 
-This is an example of an RMarkdown document that renders to a PDF file. You can include text, R code, and other markdown elements.
+::: {.timeline-item}
+### Maîtrise en science politique -- avec mémoire
+**2024 - présent**  
+_Université Laval, Ville de Québec_
 
-```{r}
-# Sample R code chunk
-summary(cars)
-```
+Parcours et apprentissages:
 
-# Conclusion
+- Mémoire de maitrise portant sur l'optimisation du potentiel de croissance des partis politiques dans les systèmes multipartites
+- Approfondissement sur les domaines suivants de la science politique:
+  - Application de l'apprentissage automatique en science politique
+  - Application de l'approche bayésienne en science politique
+  - Analyse quantitative
+  - Représentation des intérêts politiques
+  - Communication politique
+  - Philosophie politique
+  - 
+- Approfondissement du processus de recherche en science politique quantitative
 
-This document demonstrates how to create a PDF using RMarkdown.
+:::
 
+:::
+
+::: {.sidebar}
+
+<!---
+[Version PDF](cv.pdf)
+--->
+
+![](avatar.png){.profile-pic}
+
+## Coordonnées  
+📧 [hubert.cadieux.1@ulaval.ca](mailto:hubert.cadieux.1@ulaval.ca)  
+📞 (438) 825-3958  
+📍 Québec, QC, Canada  
+
+## Langues  
+- Français : Fluide  
+- Anglais : Avancé  
+
+## Compétences  
+- Analyse de données  
+- Modélisation prédictive  
+- Visualisation  
+:::
+:::
