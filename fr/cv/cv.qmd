@@ -1,0 +1,22 @@
+---
+title: "Your Document Title"
+author: "Your Name"
+date: "`r Sys.Date()`"
+format:
+  html: default
+  pdf: default
+---
+
+# Introduction
+
+This is an example of an RMarkdown document that renders to a PDF file. You can include text, R code, and other markdown elements.
+
+```{r}
+# Sample R code chunk
+summary(cars)
+```
+
+# Conclusion
+
+This document demonstrates how to create a PDF using RMarkdown.
+
