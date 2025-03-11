@@ -7,9 +7,17 @@ website:
   navbar:
     right:
       - text: "Français"
-        href: fr/index.html
+        menu:
+          - text: "Accueil"
+            href: fr/index.html
+          - text: "CV"
+            href: fr/cv/cv.html
       - text: "English"
-        href: en/index.html
+        menu:
+          - text: "Home"
+            href: en/index.html
+          - text: "Resume"
+            href: en/cv/cv.html
 
 lang: fr
 languages:

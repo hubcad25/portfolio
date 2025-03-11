@@ -2,7 +2,7 @@
   {
     "objectID": "fr/cv/cv.html",
     "href": "fr/cv/cv.html",
-    "title": "Your Document Title",
+    "title": "Hubert Cadieux",
     "section": "",
     "text": "Introduction\nThis is an example of an RMarkdown document that renders to a PDF file. You can include text, R code, and other markdown elements.\n\n# Sample R code chunk\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00  \n\n\n\n\nConclusion\nThis document demonstrates how to create a PDF using RMarkdown."
   },

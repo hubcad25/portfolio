@@ -1,5 +1,5 @@
 ---
-title: "Your Document Title"
+title: "Hubert Cadieux"
 author: "Your Name"
 date: "`r Sys.Date()`"
 format:
