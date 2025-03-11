@@ -47,5 +47,5 @@ website:
       - section: "Mémoire de Maitrise"
         contents:
           - text: "Présentation CPSA 2024"
-            href: projects/presentation_memoire_cpsa2024/pres_cpsa2024.html
+            href: projects/presentation_memoire_cpsa2024/index.html
       - section: "Mon CV"

@@ -1,0 +1,6 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - en
+    - fr

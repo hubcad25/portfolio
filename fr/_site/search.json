@@ -1,5 +1,27 @@
 [
   {
+    "objectID": "projects/dashboard_model_icpsr_2024.html",
+    "href": "projects/dashboard_model_icpsr_2024.html",
+    "title": "Modèle shinydashboard pour ICPSR 2024",
+    "section": "",
+    "text": "Tableau de bord interactif créé pour l’atelier thématique “Interactive Visualization, Dashboards, and Apps with R and Shiny” en tant qu’assistant d’enseignement. Ce tableau de bord offre un résumé des données des élections américaines de 2016.",
+    "crumbs": [
+      "Tableaux de Bord Interactifs",
+      "Modèle `shinydashboard` ICPSR 2024"
+    ]
+  },
+  {
+    "objectID": "projects/dashboard_model_icpsr_2024.html#détails-du-cours",
+    "href": "projects/dashboard_model_icpsr_2024.html#détails-du-cours",
+    "title": "Modèle shinydashboard pour ICPSR 2024",
+    "section": "Détails du cours",
+    "text": "Détails du cours\n\nCours : Interactive Visualization, Dashboards, and Apps with R and Shiny\nInstructeur : Yannick Dufresne\nDates : 29 au 31 juillet 2024\n\nVoir le Tableau de Bord",
+    "crumbs": [
+      "Tableaux de Bord Interactifs",
+      "Modèle `shinydashboard` ICPSR 2024"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Accueil",
@@ -30,28 +52,6 @@
     ]
   },
   {
-    "objectID": "projects/dashboard_model_icpsr_2024.html",
-    "href": "projects/dashboard_model_icpsr_2024.html",
-    "title": "Modèle shinydashboard pour ICPSR 2024",
-    "section": "",
-    "text": "Tableau de bord interactif créé pour l’atelier thématique “Interactive Visualization, Dashboards, and Apps with R and Shiny” en tant qu’assistant d’enseignement. Ce tableau de bord offre un résumé des données des élections américaines de 2016.",
-    "crumbs": [
-      "Tableaux de Bord Interactifs",
-      "Modèle `shinydashboard` ICPSR 2024"
-    ]
-  },
-  {
-    "objectID": "projects/dashboard_model_icpsr_2024.html#détails-du-cours",
-    "href": "projects/dashboard_model_icpsr_2024.html#détails-du-cours",
-    "title": "Modèle shinydashboard pour ICPSR 2024",
-    "section": "Détails du cours",
-    "text": "Détails du cours\n\nCours : Interactive Visualization, Dashboards, and Apps with R and Shiny\nInstructeur : Yannick Dufresne\nDates : 29 au 31 juillet 2024\n\nVoir le Tableau de Bord",
-    "crumbs": [
-      "Tableaux de Bord Interactifs",
-      "Modèle `shinydashboard` ICPSR 2024"
-    ]
-  },
-  {
     "objectID": "projects/explore_regression.html",
     "href": "projects/explore_regression.html",
     "title": "Exploration des paramètres d’une régression linéaire",
@@ -71,226 +71,6 @@
     "crumbs": [
       "Tableaux de Bord Interactifs",
       "Exploration des paramètres d'une régression linéaire"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#theoretical-framework-funnel-of-causality",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#theoretical-framework-funnel-of-causality",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Theoretical Framework: Funnel of Causality",
-    "text": "Theoretical Framework: Funnel of Causality\n\n\nThe theoretical framework fits into the causality model This model suggests that each block of factors has a different effect over time The more long-term, the more fixed the variable",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#theoretical-framework-funnel-of-causality-1",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#theoretical-framework-funnel-of-causality-1",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Theoretical Framework: Funnel of Causality",
-    "text": "Theoretical Framework: Funnel of Causality\n\n\nWe will situate the room for maneuver in the short-term blocks, so issues and candidates",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#funnel-of-causality-adaptation-to-the-quebec-context",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#funnel-of-causality-adaptation-to-the-quebec-context",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Funnel of Causality, adaptation to the Quebec context",
-    "text": "Funnel of Causality, adaptation to the Quebec context\n\n\nModel developed in the American two-party context, 20th century\nLess strong party identification in Canada (Jenson 1975)\nConsiderable influence of short-term factors on Canadian voters (Blais 2004, Kilibarda et al. 2020)\nHeterogeneity of salience, micro-publics (Krosnick 1990), hybrid media system\nTherefore.. considerable room for maneuver\n\n\n\nobviously, it needs to be adapted heterogeneity: fragmentation of issue salience and reception channels, especially in the context of social networks, must be considered in the issues/candidates block postulate: room for maneuver &gt; than what classical theories suggest",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#theorizing-the-potential-for-growth-two-distinct-concepts",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#theorizing-the-potential-for-growth-two-distinct-concepts",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Theorizing the Potential for Growth: Two Distinct Concepts",
-    "text": "Theorizing the Potential for Growth: Two Distinct Concepts\n\nStatic potential for growth: by maintaining its current positions on an issue.Achieved through political communication strategies.\nDynamic potential for growth: by adopting the optimal set of positions on issues.Assumes that the static potential for growth is achieved.\n\n\nPolitical communication: strategy on social networks, better targeting different segments, highlighting certain messages, etc.",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#application-of-the-two-concepts",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#application-of-the-two-concepts",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Application of the Two Concepts",
-    "text": "Application of the Two Concepts\n\n\n\nStatic potential for growth: the recent rise of the PQ\nDynamic potential for growth: empirical exploration\n\n\n\nData: 8 monthly surveys from January to August 2022 (n = 9135)",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#measuring-the-potential-for-growth-with-the-rci",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#measuring-the-potential-for-growth-with-the-rci",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Measuring the Potential for Growth with the RCI",
-    "text": "Measuring the Potential for Growth with the RCI\nRelative Confidence Index (RCI)\n\n\nDeveloped in the Quebec context (Dufresne et al. 2022, Déry et al. 2022)\nAddresses the shortcomings of traditional vote intention measures\n\nContinuous index of vote intention\nInformation on 5 parties for each respondent",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#measuring-the-potential-for-growth-with-the-rci-1",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#measuring-the-potential-for-growth-with-the-rci-1",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Measuring the Potential for Growth with the RCI",
-    "text": "Measuring the Potential for Growth with the RCI\nOn a scale of 0 to 10, how likely are you to vote for [party]?",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#measuring-the-potential-for-growth-with-the-rci-2",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#measuring-the-potential-for-growth-with-the-rci-2",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Measuring the Potential for Growth with the RCI",
-    "text": "Measuring the Potential for Growth with the RCI\nOn a scale of 0 to 10, how likely are you to vote for [party]?",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#theoretical-advantages-of-the-irc",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#theoretical-advantages-of-the-irc",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Theoretical Advantages of the IRC",
-    "text": "Theoretical Advantages of the IRC\n\n\nBetter suited to multiparty systems\nReduces the uncertainty associated with the gap between attitudes (vote intention) and behavior (voting action)\nDistinguishes between unattainable and attainable voters → potential for growth",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#static-potential-for-growth-the-rise-of-the-pq",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#static-potential-for-growth-the-rise-of-the-pq",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Static Potential for Growth: The Rise of the PQ",
-    "text": "Static Potential for Growth: The Rise of the PQ\n\n\nThe rise of the PQ is mainly due to the decline of the CAQ But why did the PQ benefit and not another challenger?",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#predicted-rci-of-challengers-among-caq-voters",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#predicted-rci-of-challengers-among-caq-voters",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Predicted RCI of Challengers among CAQ voters",
-    "text": "Predicted RCI of Challengers among CAQ voters\n\n\nthis graph shows the predicted RCI for challengers among CAQ voters at each RCI level for the CAQ we clearly see that, on the individual level, PQ was the party that would benefit from caq decline",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#estimated-distribution-of-negative-rci-across-the-125-ridings",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#estimated-distribution-of-negative-rci-across-the-125-ridings",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Estimated Distribution of Negative RCI Across the 125 Ridings",
-    "text": "Estimated Distribution of Negative RCI Across the 125 Ridings\n\n\nHere we see the distribution of ridings according to their estimated potential for growth for each party Estimation based on linear models projected on post-stratification tables Models only made on non-voters of the parties, negative IRC We can see that the PQ has the highest potential for growth among the challenger parties Interesting fact: the CAQ has the highest potential for growth: could the CAQ have won even more? This supports the idea that the rise of the PQ is more due to the decline of the CAQ, which was in a good position But assuming the CAQ was going to fall, why the PQ?",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#potential-for-growth-of-challengers-in-constituencies-won-by-the-caq",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#potential-for-growth-of-challengers-in-constituencies-won-by-the-caq",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Potential for Growth of Challengers in Constituencies Won by the CAQ",
-    "text": "Potential for Growth of Challengers in Constituencies Won by the CAQ\n\n\nThis graph presents the potential for growth on the left and the vote share in the 2022 election of the challenger parties in constituencies won by the CAQ If we only consider the vote share on the right, the four parties seem in a good position, especially the PCQ In the graph on the left, we see that the PQ was the challenger with the highest potential for growth in CAQ constituencies",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#dynamic-potential-for-growth-quebec-independence",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#dynamic-potential-for-growth-quebec-independence",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Dynamic Potential for Growth: Quebec Independence",
-    "text": "Dynamic Potential for Growth: Quebec Independence",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#dynamic-potential-for-growth-quebec-independence-1",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#dynamic-potential-for-growth-quebec-independence-1",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Dynamic Potential for Growth: Quebec Independence",
-    "text": "Dynamic Potential for Growth: Quebec Independence\n\n\nare these positions optimal?",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#dynamic-potential-for-growth-quebec-independence-2",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#dynamic-potential-for-growth-quebec-independence-2",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Dynamic Potential for Growth: Quebec Independence",
-    "text": "Dynamic Potential for Growth: Quebec Independence",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#dynamic-potential-for-growth-teachers-religious-symbols",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#dynamic-potential-for-growth-teachers-religious-symbols",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Dynamic Potential for Growth: Teachers’ Religious Symbols",
-    "text": "Dynamic Potential for Growth: Teachers’ Religious Symbols",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#dynamic-potential-for-growth-teachers-religious-symbols-1",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#dynamic-potential-for-growth-teachers-religious-symbols-1",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Dynamic Potential for Growth: Teachers’ Religious Symbols",
-    "text": "Dynamic Potential for Growth: Teachers’ Religious Symbols",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#dynamic-potential-for-growth-teachers-religious-symbols-2",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#dynamic-potential-for-growth-teachers-religious-symbols-2",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Dynamic Potential for Growth: Teachers’ Religious Symbols",
-    "text": "Dynamic Potential for Growth: Teachers’ Religious Symbols",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
-    ]
-  },
-  {
-    "objectID": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#next-steps",
-    "href": "projects/presentation_memoire_cpsa2024/presentation_memoire_cpsa2024.html#next-steps",
-    "title": "Operationalizing the Potential for Growth of Political Parties in a Multiparty System",
-    "section": "Next Steps",
-    "text": "Next Steps\nFinal objective: systematic model that identifies electoral segments to target (static) and optimal positioning (dynamic)\n\n\nMore developed theoretical framework\n\nSpatial theory of voting\n\nData from the VPL electoral compass\n\nAllows testing of multiple issues in the same model\nIssue salience\n\nSurvey experiments → associate the IRC with probabilities, perform simulations based on surveys\nDynamic potential for growth: systematize, simulations, machine learning, etc.\n\n\n\nSpatial theory of voting: taking the position of other parties on the issue Machine learning: complex problem with multiple dimensions, necessity for simulations etc. The models are not necessarily complex (linear regressions with classic IVs or SEM), but the simulation is more complex Combinatorial optimization",
-    "crumbs": [
-      "Mémoire de Maitrise",
-      "Présentation CPSA 2024"
     ]
   }
 ]
