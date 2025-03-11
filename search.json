@@ -1,14 +1,28 @@
 [
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
+    "objectID": "fr/portfolio.html",
+    "href": "fr/portfolio.html",
     "title": "portfolio",
     "section": "",
     "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   },
   {
-    "objectID": "portfolio.html#quarto",
-    "href": "portfolio.html#quarto",
+    "objectID": "fr/portfolio.html#quarto",
+    "href": "fr/portfolio.html#quarto",
+    "title": "portfolio",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "en/portfolio.html",
+    "href": "en/portfolio.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "en/portfolio.html#quarto",
+    "href": "en/portfolio.html#quarto",
     "title": "portfolio",
     "section": "",
     "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
