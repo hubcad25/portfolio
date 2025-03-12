@@ -9,17 +9,32 @@ format:
     page-layout: custom
   pdf: default
 lang: fr
+filters: 
+    - multibib
+validate-yaml: false
+bibliography:
+    articles: references/articles.bib
+    media: references/media.bib
+    presentations: references/presentations.bib
+nocite: "@*"
+biblio-sort: ascending
 ---
 
 ::: {.layout}
+
 ::: {.timeline}
+
+## Éducation
+
+<details>
+<summary>Afficher / Masquer</summary>
 
 ::: {.timeline-item}
 ### Maîtrise en science politique -- avec mémoire
 **2024 - présent**  
 _Université Laval, Ville de Québec_
 
-Parcours et apprentissages:
+**Parcours et apprentissages**:
 
 - Mémoire de maitrise portant sur l'optimisation du potentiel de croissance des partis politiques dans les systèmes multipartites
 - Approfondissement sur les domaines suivants de la science politique:
@@ -29,12 +44,287 @@ Parcours et apprentissages:
   - Représentation des intérêts politiques
   - Communication politique
   - Philosophie politique
-  - 
 - Approfondissement du processus de recherche en science politique quantitative
 
 :::
 
+<br>
+
+::: {.timeline-item}
+### Baccalauréat intégré en économie et politique
+**2020 - 2023**  
+_Université Laval, Ville de Québec_
+
+**Parcours et apprentissages**:
+
+- Mention d'honneur de la Faculté des sciences sociales
+- Suivi du cours _POL-2425 Persuasion et opinion publique_ qui a approfondi ma compréhension de l'étude de l'opinion publique.
+- Introduction et approfondissement des principales théories de la science politique et économique.
+- Acquis des fondamentaux de la recherche en sciences politiques et économiques.
+- Conception et développement d'un projet de recherche analysant les perceptions des étudiants de l'Université Laval concernant les aspects économiques du projet de tramway de Québec, impliquant des étapes de conception d'enquête, collecte et analyse de données, et présentation des résultats.
+
 :::
+
+<br>
+
+::: {.timeline-item}
+### Diplôme de l'École interdisciplinaire outils et méthodes (EIOM)  
+**2022 - 2023**  
+_École supérieure d’études internationales (ESEI), Ville de Québec_  
+
+**Parcours et apprentissages :**  
+
+- Suivi du parcours _Distinguer la cause de l’effet : causalité et expérimentation_  
+- Suivi du parcours _La science des données: modélisation et prédiction_  
+- Maîtrise de méthodes avancées en analyse et modélisation, incluant la régression multiple, l'apprentissage automatique, la visualisation de données et la réduction de dimensionnalité.  
+- Acquisition de compétences fondamentales en logique et en structuration causale.  
+- Développement de compétences en inférence causale à partir de données observationnelles, appliquant des techniques et méthodes telles que les groupes synthétiques, la double différence, la régression par discontinuité et l'appariement (_matching_).  
+
+:::
+
+
+<br>
+
+
+::: {.timeline-item}
+### Programme Validation de l'Innovation et du Potentiel (VIP)  
+**2024**  
+_Entrepreneuriat ULaval, Université Laval, Ville de Québec_  
+
+**Parcours et apprentissages :**  
+
+- Acquisition de notions de base en comptabilité et en prévisions financières
+- Développement d'un pitch pour investisseurs
+
+:::
+
+
+
+::: {.timeline-item}
+### Programme Validation d'Opportunité d'Affaires (VOA)  
+**2024**  
+_Entrepreneuriat ULaval, Université Laval, Ville de Québec_  
+
+**Parcours et apprentissages :**  
+
+- Approfondir ma réflexion sur mon idée d'affaires.  
+- Proposition de valeur, analyse de la concurrence.  
+
+:::
+
+
+::: {.timeline-item}
+### Bootcamp sur l'IA  
+**2023**  
+_Institut Intelligence et Données (IID), Université Laval, Ville de Québec_  
+
+**Parcours et apprentissages :**  
+
+- Apprentissage des principes fondamentaux de l'apprentissage automatique et de l'apprentissage profond, avec une mise en pratique utilisant scikit-learn et PyTorch.  
+- Exploration des concepts et défis liés à l'IA éthique et responsable.  
+- Initiation aux méthodes d'optimisation des modèles de machine learning, incluant le calcul haute performance et l'optimisation bayésienne.  
+
+:::
+
+
+::: {.timeline-item}
+### Diplôme d'études collégiales (DEC) en sciences humaines - profil administration  
+**2017 - 2020**  
+_Cégep de Saint-Hyacinthe_  
+
+**Parcours et apprentissages :**  
+
+- Introduction aux principaux domaines des sciences humaines.  
+- Acquisition des connaissances de base en algèbre linéaire et calcul différentiel.  
+
+:::
+
+
+</details>
+
+
+
+## Expériences de travail
+
+<details>
+<summary>Afficher / Masquer</summary>
+
+::: {.timeline-item}
+### Démarrage de Opubliq  
+**2024 - présent**  
+
+- Conception et prototypage d'un **Software as a Service (SaaS)** adapté aux besoins des partis politiques municipaux.  
+- Réseautage actif pour établir des partenariats stratégiques et élargir la portée du projet.
+- Mené une étude de marché pour identifier les opportunités et affiner le positionnement du produit.
+- Demandes de financement pour une startup
+- Validation des hypothèses par des tests utilisateurs et des entretiens avec des parties prenantes.  
+- Élaboration d'une stratégie de mise en marché et d'acquisition de clients.  
+
+:::
+
+
+
+
+::: {.timeline-item}
+### Auxiliaire d'enseignement  
+**Juillet 2025**  
+_Interactive Visualization, Dashboards, and Apps with R and Shiny, ICPSR Summer Program, Michigan State University, Ann Arbor_  
+
+- Montage du cours en collaboration avec Yannick Dufresne, enseignant du cours.  
+- Accompagnement des étudiants lors des séances de laboratoire.  
+
+:::
+
+
+
+::: {.timeline-item}
+### Auxiliaire de recherche  
+**2021 - présent**  
+_Chaire de leadership en enseignement des sciences sociales numériques (CLESSN), Université Laval, Ville de Québec_  
+
+- Maîtrise du langage de programmation R, avec une application directe dans des contextes théoriques spécifiques.  
+- Contribution essentielle aux projets phares de la CLESSN : Datagotchi, Polimètre et Projet Quorum.  
+- Perfectionnement et application de techniques avancées en analyse de données pour soutenir les projets de recherche et publication.  
+- Co-rédaction et production de publications académiques, détaillées dans la section [Publications et conférences](#publications).  
+- Rôle actif dans la conception et mise en œuvre d'une infrastructure logicielle (sur AWS) et d'une plateforme de données spécifiquement adaptées aux besoins et aux défis des sciences sociales numériques.  
+- Préparation et soumission de demandes de subvention et de demandes d'approbation éthique.  
+- Collaboration avec des partenaires externes.  
+- Pour plus de détails sur des projets spécifiques et des réalisations, voir la section [Réalisations](#realisations).  
+
+:::
+
+
+
+::: {.timeline-item}
+### Scientifique de données  
+**2022 - 2024**  
+_Mitacs, Musée de la Civilisation du Québec (MCQ), Ville de Québec_  
+
+- Valorisation des données issues des enquêtes par sondage réalisées par le MCQ.  
+- Application de techniques d'analyse avancées dans un cas pratique professionnel.  
+- Rédaction et production de deux rapports stratégiques prescrivant des orientations marketing ciblées pour le MCQ.  
+- Collaboration et communication active avec l'équipe marketing du MCQ.  
+
+:::
+
+
+
+::: {.timeline-item}
+### Scientifique de données  
+**2023 - 2024**  
+_Centre Interdisciplinaire de Recherche sur l'Afrique et le Moyen-Orient (CIRAM), Université Laval, Ville de Québec_  
+
+- Valorisation d'une base de données sur les dynasties politiques.  
+
+:::
+
+
+::: {.timeline-item}
+### Auxiliaire d'enseignement  
+**2022 - 2024**  
+_POL-7004 - Analyse quantitative, Université Laval, Ville de Québec_  
+
+- Correction d'examens et d'exercices.  
+- Assistance technique aux étudiants.  
+- Assistance théorique aux étudiants.  
+
+:::
+
+
+::: {.timeline-item}
+### Représentant des étudiants  
+**2023 - présent**  
+_Centre de recherche en données massives, Université Laval, Ville de Québec_  
+
+- Représenter les intérêts des étudiants au sein du centre.  
+- Participation aux réunions du comité de direction.  
+- Aider à l'organisation d'évènements sociaux.  
+
+:::
+
+::: {.timeline-item}
+### Recherchiste pour le Polimètre  
+**2021**  
+_Centre d'analyse en politiques publiques, Université Laval, Ville de Québec_  
+
+- Effectuer le suivi des réalisations des promesses du gouvernement Trudeau (2019-2021).  
+
+:::
+
+::: {.timeline-item}
+### Recruteur amateur  
+**2019 - 2021**  
+_Rangers de Montréal-Est_  
+
+- Assister à des matchs de Midget AAA.  
+- Remettre un rapport des joueurs intéressants.  
+- Préparation au repêchage de la LHJAAAQ.  
+
+:::
+
+::: {.timeline-item}
+### Auxiliaire d'enseignement  
+**2023**  
+_EIOM, ESEI, Ville de Québec_  
+
+- Assistance technique aux étudiants.
+
+:::
+
+
+</details>
+
+
+## Publications et conférences
+
+
+<details>
+<summary>Afficher / Masquer</summary>
+
+
+### Articles de revue  
+
+<details>
+<summary>Afficher / Masquer</summary>
+
+::: {#refs-articles}
+:::
+
+</details>
+
+
+### Présentations à des conférences
+
+<details>
+<summary>Afficher / Masquer</summary>
+
+::: {#refs-presentations}
+:::
+
+</details>
+
+
+### Articles dans les médias
+
+<details>
+<summary>Afficher / Masquer</summary>
+
+::: {#refs-media}
+:::
+
+</details>
+
+
+</details>
+
+
+:::
+<!-- Fin de la timeline -->
+
+
+
+
+<!-- Début de la sidebar -->
 
 ::: {.sidebar}
 
@@ -44,18 +334,145 @@ Parcours et apprentissages:
 
 ![](avatar.png){.profile-pic}
 
-## Coordonnées  
-📧 [hubert.cadieux.1@ulaval.ca](mailto:hubert.cadieux.1@ulaval.ca)  
-📞 (438) 825-3958  
-📍 Québec, QC, Canada  
+### Coordonnées  
+📧 [hubertcadieux@opubliq.com](mailto:hubertcadieux@opubliq.com)<br>
+📧 [hubert.cadieux.1@ulaval.ca](mailto:hubert.cadieux.1@ulaval.ca)<br>
+📧 [hubertcadieux@gmail.com](mailto:hubertcadieux@gmail.com)<br>
+📞 (438) 825-3958<br>
+📍 6-70 rue Saint-Louis, Ville de Québec, QC, Canada
 
-## Langues  
-- Français : Fluide  
-- Anglais : Avancé  
+### Langues
 
-## Compétences  
-- Analyse de données  
-- Modélisation prédictive  
-- Visualisation  
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>Français</span>
+        <span>Fluide</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 100%;"></div>
+    </div>
+</div>
+```
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>Anglais</span>
+        <span>Avancé</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 85%;"></div>
+    </div>
+</div>
+```
+
+### Langages informatiques 
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>R</span>
+        <span>Fluide</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 100%;"></div>
+    </div>
+</div>
+```
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>R Shiny</span>
+        <span>Fluide</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 100%;"></div>
+    </div>
+</div>
+```
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>Markdown</span>
+        <span>Avancé</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 90%;"></div>
+    </div>
+</div>
+```
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>Python</span>
+        <span>Intermédiaire</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 75%;"></div>
+    </div>
+</div>
+```
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>LaTeX</span>
+        <span>Intermédiaire</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 75%;"></div>
+    </div>
+</div>
+```
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>HTML</span>
+        <span>Débutant</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 25%;"></div>
+    </div>
+</div>
+```
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>JavaScript</span>
+        <span>Débutant</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 25%;"></div>
+    </div>
+</div>
+```
+
+
+### Compétences  
+- Analyse de données
+- Analyse bayésienne
+- Modélisation prédictive
+- Computation parallèle en local
+- Visualisation de données avancée
+- Programmation de sondages
+- Création de packages R
+- Mentorat, enseignement
+- Gestion de projet
+- Coordination d'une demande d'approbation éthique
 :::
 :::
