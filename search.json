@@ -1,82 +1,5 @@
 [
   {
-    "objectID": "fr/cv/cv.html",
-    "href": "fr/cv/cv.html",
-    "title": "Hubert Cadieux",
-    "section": "",
-    "text": "## Coordonnées\n📧 hubert.cadieux.1@ulaval.ca\n📞 (438) 825-3958\n📍 Québec, QC, Canada\n## Langues\n- Français : Fluide\n- Anglais : Avancé\n## Compétences\n- Analyse de données\n- Modélisation prédictive\n- Visualisation\n\n\nIntroduction\nCeci est un exemple de document Quarto avec une sidebar."
-  },
-  {
-    "objectID": "en/index.html",
-    "href": "en/index.html",
-    "title": "portfolio",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "en/index.html#quarto",
-    "href": "en/index.html#quarto",
-    "title": "portfolio",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "fr/index.html",
-    "href": "fr/index.html",
-    "title": "portfolio",
-    "section": "",
-    "text": "Bonjour!\nMon portfolio est actuellement en construction. Vous pouvez consulter mon CV en attendant."
-  },
-  {
-    "objectID": "fr/index.html#quarto",
-    "href": "fr/index.html#quarto",
-    "title": "portfolio",
-    "section": "",
-    "text": "Quarto vous permet de combiner contenu et code vérifiable dans un document terminé. Pour en savoir plus sur Quarto, voir https://quarto.org."
-  },
-  {
-    "objectID": "fr/cv/cv.html#coordonnées",
-    "href": "fr/cv/cv.html#coordonnées",
-    "title": "Hubert Cadieux",
-    "section": "Coordonnées",
-    "text": "Coordonnées\n📧 hubertcadieux@opubliq.com 📧 hubert.cadieux.1@ulaval.ca 📧 hubertcadieux@gmail.com 📞 (438) 825-3958 📍 6-70 rue Saint-Louis, Ville de Québec, QC, Canada"
-  },
-  {
-    "objectID": "fr/cv/cv.html#langues",
-    "href": "fr/cv/cv.html#langues",
-    "title": "Hubert Cadieux",
-    "section": "Langues",
-    "text": "Langues\n\n\n    \n        Français\n        Fluide\n    \n    \n        \n    \n\n\n\n    \n        Anglais\n        Avancé"
-  },
-  {
-    "objectID": "fr/cv/cv.html#compétences",
-    "href": "fr/cv/cv.html#compétences",
-    "title": "Hubert Cadieux",
-    "section": "Compétences",
-    "text": "Compétences\n\nAnalyse de données\nAnalyse bayésienne\nModélisation prédictive\nComputation parallèle en local\nVisualisation de données avancée\nProgrammation de sondages\nCréation de packages R\nMentorat, enseignement\nGestion de projet\nCoordination d’une demande d’approbation éthique"
-  },
-  {
-    "objectID": "fr/cv/cv.html#maitrise-en-science-po",
-    "href": "fr/cv/cv.html#maitrise-en-science-po",
-    "title": "Hubert Cadieux",
-    "section": "Maitrise en science po",
-    "text": "Maitrise en science po\n\n2024 - présent\nMaîtrise en science politique\nUniversité Laval, Ville de Québec\nParcours et apprentissages:\n\nMémoire de maitrise portant sur l’optimisation du potentiel de croissance des partis politiques dans les systèmes multipartites\nApprofondissement"
-  },
-  {
-    "objectID": "fr/cv/cv.html#compétences-1",
-    "href": "fr/cv/cv.html#compétences-1",
-    "title": "Hubert Cadieux",
-    "section": "Compétences",
-    "text": "Compétences\n\nAnalyse de données\n\nModélisation prédictive\n\nVisualisation"
-  },
-  {
-    "objectID": "fr/cv/cv.html#langages-informatiques",
-    "href": "fr/cv/cv.html#langages-informatiques",
-    "title": "Hubert Cadieux",
-    "section": "Langages informatiques",
-    "text": "Langages informatiques\n\n\n    \n        R\n        Fluide\n    \n    \n        \n    \n\n\n\n    \n        R Shiny\n        Fluide\n    \n    \n        \n    \n\n\n\n    \n        Markdown\n        Avancé\n    \n    \n        \n    \n\n\n\n    \n        Python\n        Intermédiaire\n    \n    \n        \n    \n\n\n\n    \n        LaTeX\n        Intermédiaire\n    \n    \n        \n    \n\n\n\n    \n        HTML\n        Débutant\n    \n    \n        \n    \n\n\n\n    \n        JavaScript\n        Débutant"
-  },
-  {
     "objectID": "fr/cv/cv.html#éducation",
     "href": "fr/cv/cv.html#éducation",
     "title": "Hubert Cadieux",
@@ -88,28 +11,14 @@
     "href": "fr/cv/cv.html#expériences-de-travail",
     "title": "Hubert Cadieux",
     "section": "Expériences de travail",
-    "text": "Expériences de travail\n\n\nAfficher / Masquer\n\n\nDémarrage de Opubliq\n2024 - présent\n\nConception et prototypage d’un Software as a Service (SaaS) adapté aux besoins des partis politiques municipaux.\n\nRéseautage actif pour établir des partenariats stratégiques et élargir la portée du projet.\nMené une étude de marché pour identifier les opportunités et affiner le positionnement du produit.\nDemandes de financement pour une startup\nValidation des hypothèses par des tests utilisateurs et des entretiens avec des parties prenantes.\n\nÉlaboration d’une stratégie de mise en marché et d’acquisition de clients.\n\n\n\nAuxiliaire d’enseignement\nJuillet 2025\nInteractive Visualization, Dashboards, and Apps with R and Shiny, ICPSR Summer Program, Michigan State University, Ann Arbor\n\nMontage du cours en collaboration avec Yannick Dufresne, enseignant du cours.\n\nAccompagnement des étudiants lors des séances de laboratoire.\n\n\n\nAuxiliaire de recherche\n2021 - présent\nChaire de leadership en enseignement des sciences sociales numériques (CLESSN), Université Laval, Ville de Québec\n\nMaîtrise du langage de programmation R, avec une application directe dans des contextes théoriques spécifiques.\n\nContribution essentielle aux projets phares de la CLESSN : Datagotchi, Polimètre et Projet Quorum.\n\nPerfectionnement et application de techniques avancées en analyse de données pour soutenir les projets de recherche et publication.\n\nCo-rédaction et production de publications académiques, détaillées dans la section Publications et conférences.\n\nRôle actif dans la conception et mise en œuvre d’une infrastructure logicielle (sur AWS) et d’une plateforme de données spécifiquement adaptées aux besoins et aux défis des sciences sociales numériques.\n\nPréparation et soumission de demandes de subvention et de demandes d’approbation éthique.\n\nCollaboration avec des partenaires externes.\n\nPour plus de détails sur des projets spécifiques et des réalisations, voir la section Réalisations.\n\n\n\nScientifique de données\n2022 - 2024\nMitacs, Musée de la Civilisation du Québec (MCQ), Ville de Québec\n\nValorisation des données issues des enquêtes par sondage réalisées par le MCQ.\n\nApplication de techniques d’analyse avancées dans un cas pratique professionnel.\n\nRédaction et production de deux rapports stratégiques prescrivant des orientations marketing ciblées pour le MCQ.\n\nCollaboration et communication active avec l’équipe marketing du MCQ.\n\n\n\nScientifique de données\n2023 - 2024\nCentre Interdisciplinaire de Recherche sur l’Afrique et le Moyen-Orient (CIRAM), Université Laval, Ville de Québec\n\nValorisation d’une base de données sur les dynasties politiques.\n\n\n\nAuxiliaire d’enseignement\n2022 - 2024\nPOL-7004 - Analyse quantitative, Université Laval, Ville de Québec\n\nCorrection d’examens et d’exercices.\n\nAssistance technique aux étudiants.\n\nAssistance théorique aux étudiants.\n\n\n\nReprésentant des étudiants\n2023 - présent\nCentre de recherche en données massives, Université Laval, Ville de Québec\n\nReprésenter les intérêts des étudiants au sein du centre.\n\nParticipation aux réunions du comité de direction.\n\nAider à l’organisation d’évènements sociaux.\n\n\n\nRecherchiste pour le Polimètre\n2021\nCentre d’analyse en politiques publiques, Université Laval, Ville de Québec\n\nEffectuer le suivi des réalisations des promesses du gouvernement Trudeau (2019-2021).\n\n\n\nRecruteur amateur\n2019 - 2021\nRangers de Montréal-Est\n\nAssister à des matchs de Midget AAA.\n\nRemettre un rapport des joueurs intéressants.\n\nPréparation au repêchage de la LHJAAAQ.\n\n\n\nAuxiliaire d’enseignement\n2023\nEIOM, ESEI, Ville de Québec\n\nAssistance technique aux étudiants."
+    "text": "Expériences de travail\n\n\nAfficher / Masquer\n\n\nDémarrage de Opubliq\n2024 - présent\n\nOpubliq est une startup d’analyse de données d’opinion publique que je lance actuellement.\nConception et prototypage d’un Software as a Service (SaaS) adapté aux besoins des partis politiques municipaux.\n\nRéseautage actif pour établir des partenariats stratégiques et élargir la portée du projet.\nMené une étude de marché pour identifier les opportunités et affiner le positionnement du produit.\nDemandes de financement pour une startup\nValidation des hypothèses par des tests utilisateurs et des entretiens avec des parties prenantes.\n\nÉlaboration d’une stratégie de mise en marché et d’acquisition de clients.\n\n\n\nAuxiliaire d’enseignement\nJuillet 2025\nInteractive Visualization, Dashboards, and Apps with R and Shiny, ICPSR Summer Program, Michigan State University, Ann Arbor\n\nMontage du cours en collaboration avec Yannick Dufresne, enseignant du cours.\n\nAccompagnement des étudiants lors des séances de laboratoire.\n\n\n\nAuxiliaire de recherche\n2021 - présent\nChaire de leadership en enseignement des sciences sociales numériques (CLESSN), Université Laval, Ville de Québec\n\nMaîtrise du langage de programmation R, avec une application directe dans des contextes théoriques spécifiques.\n\nContribution essentielle aux projets phares de la CLESSN : Datagotchi, Polimètre et Projet Quorum.\n\nPerfectionnement et application de techniques avancées en analyse de données pour soutenir les projets de recherche et publication.\n\nCo-rédaction et production de publications académiques, détaillées dans la section Publications et conférences.\nRôle actif dans la conception et mise en œuvre d’une infrastructure logicielle (sur AWS) et d’une plateforme de données spécifiquement adaptées aux besoins et aux défis des sciences sociales numériques.\n\nPréparation et soumission de demandes de subvention et de demandes d’approbation éthique.\n\nCollaboration avec des partenaires externes.\n\nPour plus de détails sur des projets spécifiques et des réalisations, voir la section Réalisations.\n\n\n\nScientifique de données\n2022 - 2024\nMitacs, Musée de la Civilisation du Québec (MCQ), Ville de Québec\n\nValorisation des données issues des enquêtes par sondage réalisées par le MCQ.\n\nApplication de techniques d’analyse avancées dans un cas pratique professionnel.\n\nRédaction et production de deux rapports stratégiques prescrivant des orientations marketing ciblées pour le MCQ.\n\nCollaboration et communication active avec l’équipe marketing du MCQ.\n\n\n\nScientifique de données\n2023 - 2024\nCentre Interdisciplinaire de Recherche sur l’Afrique et le Moyen-Orient (CIRAM), Université Laval, Ville de Québec\n\nValorisation d’une base de données sur les dynasties politiques.\n\n\n\nAuxiliaire d’enseignement\n2022 - 2024\nPOL-7004 - Analyse quantitative, Université Laval, Ville de Québec\n\nCorrection d’examens et d’exercices.\n\nAssistance technique aux étudiants.\n\nAssistance théorique aux étudiants.\n\n\n\nReprésentant des étudiants\n2023 - présent\nCentre de recherche en données massives, Université Laval, Ville de Québec\n\nReprésenter les intérêts des étudiants au sein du centre.\n\nParticipation aux réunions du comité de direction.\n\nAider à l’organisation d’évènements sociaux.\n\n\n\nRecherchiste pour le Polimètre\n2021\nCentre d’analyse en politiques publiques, Université Laval, Ville de Québec\n\nEffectuer le suivi des réalisations des promesses du gouvernement Trudeau (2019-2021).\n\n\n\nRecruteur amateur\n2019 - 2021\nRangers de Montréal-Est\n\nAssister à des matchs de Midget AAA.\n\nRemettre un rapport des joueurs intéressants.\n\nPréparation au repêchage de la LHJAAAQ.\n\n\n\nAuxiliaire d’enseignement\n2023\nEIOM, ESEI, Ville de Québec\n\nAssistance technique aux étudiants."
   },
   {
-    "objectID": "fr/cv/cv.html#test",
-    "href": "fr/cv/cv.html#test",
-    "title": "Hubert Cadieux",
-    "section": "Test",
-    "text": "Test\n\nBaccalauréat intégré en économie et politique\n2020 - 2023\nUniversité Laval, Ville de Québec\nParcours et apprentissages:\n\nMention d’honneur de la Faculté des sciences sociales\nSuivi du cours POL-2425 Persuasion et opinion publique qui a approfondi ma compréhension de l’étude de l’opinion publique.\nIntroduction et approfondissement des principales théories de la science politique et économique.\nAcquis des fondamentaux de la recherche en sciences politiques et économiques.\nConception et développement d’un projet de recherche analysant les perceptions des étudiants de l’Université Laval concernant les aspects économiques du projet de tramway de Québec, impliquant des étapes de conception d’enquête, collecte et analyse de données, et présentation des résultats.\n\n\n\n\nDiplôme de l’École interdisciplinaire outils et méthodes (EIOM)\n2022 - 2023\nÉcole supérieure d’études internationales (ESEI), Ville de Québec\nParcours et apprentissages :\n\nSuivi du parcours Distinguer la cause de l’effet : causalité et expérimentation\n\nSuivi du parcours La science des données: modélisation et prédiction\n\nMaîtrise de méthodes avancées en analyse et modélisation, incluant la régression multiple, l’apprentissage automatique, la visualisation de données et la réduction de dimensionnalité.\n\nAcquisition de compétences fondamentales en logique et en structuration causale.\n\nDéveloppement de compétences en inférence causale à partir de données observationnelles, appliquant des techniques et méthodes telles que les groupes synthétiques, la double différence, la régression par discontinuité et l’appariement (matching).\n\n\n\n\nProgramme Validation de l’Innovation et du Potentiel (VIP)\n2024\nEntrepreneuriat ULaval, Université Laval, Ville de Québec\nParcours et apprentissages :\n\nAcquisition de notions de base en comptabilité et en prévisions financières\nDéveloppement d’un pitch pour investisseurs\n\n\n\nProgramme Validation d’Opportunité d’Affaires (VOA)\n2024\nEntrepreneuriat ULaval, Université Laval, Ville de Québec\nParcours et apprentissages :\n\nApprofondir ma réflexion sur mon idée d’affaires.\n\nProposition de valeur, analyse de la concurrence.\n\n\n\nBootcamp sur l’IA\n2023\nInstitut Intelligence et Données (IID), Université Laval, Ville de Québec\nParcours et apprentissages :\n\nApprentissage des principes fondamentaux de l’apprentissage automatique et de l’apprentissage profond, avec une mise en pratique utilisant scikit-learn et PyTorch.\n\nExploration des concepts et défis liés à l’IA éthique et responsable.\n\nInitiation aux méthodes d’optimisation des modèles de machine learning, incluant le calcul haute performance et l’optimisation bayésienne.\n\n\n\nDiplôme d’études collégiales (DEC) en sciences humaines - profil administration\n2017 - 2020\nCégep de Saint-Hyacinthe\nParcours et apprentissages :\n\nIntroduction aux principaux domaines des sciences humaines.\n\nAcquisition des connaissances de base en algèbre linéaire et calcul différentiel."
-  },
-  {
-    "objectID": "fr/cv/cv.html#publications-et-conférences",
-    "href": "fr/cv/cv.html#publications-et-conférences",
+    "objectID": "fr/cv/cv.html#sec-publications",
+    "href": "fr/cv/cv.html#sec-publications",
     "title": "Hubert Cadieux",
     "section": "Publications et conférences",
     "text": "Publications et conférences\n\n\nAfficher / Masquer\n\n\nArticles de revue\n\n\nAfficher / Masquer\n\n\n\nCadieux, Hubert, Catherine Ouellet, Sarah-Jane Vincent, Jérémy Gilbert, Camille Pelletier, et Yannick Dufresne. 2024. « Electoral Dynamics in Quebec: Analyzing the Rise of the Parti Québécois Through the Lens of Potential for Growth ». French Politics, décembre. https://doi.org/10.1057/s41253-024-00274-z.\n\n\nDéry, Axel, Alexis Bibeau, Hubert Cadieux, et Yannick Dufresne. 2022. « Sur Le Potentiel de Croissance Du Parti Conservateur Du Québec ». Canadian Journal of Political Science/Revue Canadienne de Science Politique 55 (4): 972‑77. https://doi.org/10.1017/S0008423922000762.\n\n\nM. Foisy, Laurence-Olivier, Jérémie Drouin, Camille Pelletier, Jozef Rivest, Hubert Cadieux, et Yannick Dufresne. 2024. « Ain’t No Party Like a GPT Party: Assessing OpenAI’s GPT Political Alignment Classification Capabilities ». Journal of Information Technology & Politics, décembre, 1‑13. https://doi.org/10.1080/19331681.2024.2444587.\n\n\nThompson-Collart, Brian, Hubert Cadieux, Catherine Ouellet, et Yannick Dufresne. 2024. « Lessons Learned: Citizen Forecasting, Candidate Resignations, and the 2024 US Presidential Election ». PS: Political Science & Politics, 1‑16.\n\n\nTremblay-Antoine, Camille, Hubert Cadieux, Yannick Dufresne, et Adrien Cloutier. 2024. « Pledge Salience: A Scoping Review of a Non-consensual Concept ».\n\n\n\n\n\nPrésentations à des conférences\n\n\nAfficher / Masquer\n\n\n\nCadieux, Hubert. 2023. « On Volatility and Parties’ Potential for Growth in Multiparty Systems: The Case of the 2022 Quebec Election ». St. Pete Beach, FL, USA.\n\n\n———. 2024a. « Forecasting Election Swings in Multiparty Systems Using Underlying Potential for Growth of Parties ». Nouvelle-Orléans.\n\n\n———. 2024b. « Optimizing Electoral Strategies in Quebec’s Multiparty System: A Machine Learning Approach to Assessing Party Potential for Growth ». Québec (Québec).\n\n\nGajevic Sayegh, Alexandre. 2022. « Can Fairness and Green Jobs Accelerate the Energy Transition in Canada? » Montréal, Qc, Canada.\n\n\n\n\n\nArticles dans les médias\n\n\nAfficher / Masquer\n\n\n\nBlais, Stéphane. 2022. « L’importance du climat varie selon l’allégeance politique ». Le Devoir. https://www.ledevoir.com/politique/quebec/760221/l-importance-du-climat-varie-selon-l-allegeance-politique.\n\n\nDescurninges, Clara. 2022a. « La polarisation en données: un portrait plus nuancé qu’on pourrait le croire ». Journal Métro.\n\n\n———. 2022b. « Legault évite de parler d’économie en ligne, mais domine quand même sur cet enjeu ». Le Soleil. https://www.lesoleil.com/2022/09/17/legault-evite-de-parler-deconomie-en-ligne-mais-domine-quand-meme-sur-cet-enjeu-96785889a0cdd48da6cb3fda3fbe7c5a/."
-  },
-  {
-    "objectID": "fr/cv/cv.html#publications",
-    "href": "fr/cv/cv.html#publications",
-    "title": "Hubert Cadieux",
-    "section": "Publications et conférences",
-    "text": "Publications et conférences\n\n\n\n\nArticles de revue\n\nfilter: “[keyword=article]”\n\n\n\nPrésentations et conférences\n\nfilter: “[keyword=presentation]”\n\n\n\nArticles soumis\n\nfilter: “[keyword=submitted]”\n\n\n\nArticles de journal\n\nfilter: “[keyword=journal]”"
   },
   {
     "objectID": "fr/cv/cv.html#bourses-obtenues",
@@ -119,10 +28,59 @@
     "text": "Bourses obtenues\n\n\nAfficher / Masquer\n\n\nBourse de maîtrise en recherche\n2024 - 2026\nFonds de recherche du Québec (FRQ), Société et culture\n\n\nBourse d’appui à la relève - Baccalauréat\n2021 - 2022\nObservatoire international sur les impacts sociétaux de l’IA et du numérique (OBVIA)"
   },
   {
-    "objectID": "fr/cv/cv.html#réalisations",
-    "href": "fr/cv/cv.html#réalisations",
+    "objectID": "fr/cv/cv.html#sec-realisations",
+    "href": "fr/cv/cv.html#sec-realisations",
     "title": "Hubert Cadieux",
     "section": "Réalisations",
     "text": "Réalisations\n\n\nAfficher / Masquer\n\n\nFusion de multiples sondages politiques.\n\nCréation du package R sondr qui offre des fonctions utiles pour l’analyse de sondages.\n\nCréation de packages R utiles à l’analyse de données de sciences sociales numériques.\n\nMentorat d’étudiants novices dans des projets d’analyse de données.\n\nMembre du Centre d’analyse des politiques publiques (CAPP) et du Groupe de recherche en communication politique (GRCP).\n\nFormation d’étudiants de la CLESSN à la méthodologie informatique extract-transform-load (ETL) dans un contexte académique.\n\nAnalyste de données dans la création de l’outil de prédiction de vote Datagotchi, qui tente de prédire le vote des individus en se basant strictement sur les habitudes de vie.\n\nAnalyste de données pour la couverture de la campagne électorale québécoise 2022 de la CLESSN en partenariat avec La Presse canadienne.\n\nContributions au Projet Quorum – volet transition énergétique : revue de littérature sur les attitudes et perceptions des citoyens, conception d’un sondage pilote de 80 questions et étude de marché pour un développement web.\n\nDéveloppement d’une application Web facilitant la gestion organisationnelle du Polimètre.\n\nProgrammation d’une analyse conjointe sur le logiciel Qualtrics pour identifier les préjugés des Québécois par rapport aux différentes bases électorales.\n\nTravail de mise en page pour le manuscrit de l’ouvrage collectif Bilan du gouvernement de la CAQ : entre nationalisme et pandémie de Birch et al., paru en 2022.\n\nAnalyse des données de la Fondation Université Laval."
+  },
+  {
+    "objectID": "en/cv/cv.html#education",
+    "href": "en/cv/cv.html#education",
+    "title": "Hubert Cadieux",
+    "section": "Education",
+    "text": "Education\n\n\nShow / Hide\n\n\nMaster’s in Political Science (Thesis track)\n2024 - present\nUniversité Laval, Quebec City\nCourses and Learning:\n\nMaster’s thesis focusing on optimizing growth potential for political parties in multiparty systems\nDeveloping expertise in the following areas of political science:\n\nApplication of machine learning in political science\nApplication of Bayesian approach in political science\nQuantitative analysis\nRepresentation of political interests\nPolitical communication\nPolitical philosophy\n\nDeepening the research process in quantitative political science\n\n\n\n\nIntegrated Bachelor’s in Economics and Politics\n2020 - 2023\nUniversité Laval, Quebec City\nCourses and Learning:\n\nHonors mention from the Faculty of Social Sciences\nCompleted the course POL-2425 Persuasion and Public Opinion which deepened my understanding of public opinion studies.\nIntroduction and in-depth study of the main theories of political science and economics.\nAcquired fundamentals of research in political and economic sciences.\nDesigned and developed a research project analyzing Université Laval students’ perceptions regarding the economic aspects of Quebec City’s tramway project, involving survey design, data collection and analysis, and presentation of results.\n\n\n\n\nDiploma from the École interdisciplinaire outils & méthodes (EIOM)\n2022 - 2023\nGraduate School of International Studies (ESEI), Quebec City\nCourses and Learning:\n\nFollowed the path Distinguishing Cause from Effect: Causality and Experimentation\n\nFollowed the path Data Science: Modeling and Prediction\n\nMastery of advanced methods in analysis and modeling, including multiple regression, machine learning, data visualization, and dimensionality reduction.\n\nAcquisition of fundamental skills in logic and causal structuring.\n\nDevelopment of skills in causal inference from observational data, applying techniques and methods such as synthetic groups, difference-in-differences, regression discontinuity, and matching.\n\n\n\n\nInnovation and Potential Validation Program (VIP)\n2024\nEntrepreneuriat ULaval, Université Laval, Quebec City\nCourses and Learning:\n\nAcquisition of basic accounting and financial forecasting concepts\nDevelopment of an investor pitch\n\n\n\nBusiness Opportunity Validation Program (VOA)\n2024\nEntrepreneuriat ULaval, Université Laval, Quebec City\nCourses and Learning:\n\nDeepened my reflection on my business idea.\n\nValue proposition, competitive analysis.\n\n\n\nAI Bootcamp\n2023\nInstitut intelligence et données (IID), Université Laval, Quebec City_\nCourses and Learning:\n\nLearning the fundamental principles of machine learning and deep learning, with practical application using scikit-learn and PyTorch.\n\nExploration of concepts and challenges related to ethical and responsible AI.\n\nIntroduction to optimization methods for machine learning models, including high-performance computing and Bayesian optimization.\n\n\n\nCollege Diploma (DEC) in Social Sciences - administration profile\n2017 - 2020\nCégep de Saint-Hyacinthe\nCourses and Learning:\n\nIntroduction to the main fields of social sciences.\n\nAcquisition of basic knowledge in linear algebra and differential calculus."
+  },
+  {
+    "objectID": "en/cv/cv.html#work-experience",
+    "href": "en/cv/cv.html#work-experience",
+    "title": "Hubert Cadieux",
+    "section": "Work Experience",
+    "text": "Work Experience\n\n\nShow / Hide\n\n\nLaunching Opubliq\n2024 - present\n\nOpubliq is a public opinion data anlysis startup I am currently launching.\nDesign and prototyping of a Software as a Service (SaaS) adapted to the needs of municipal political parties.\n\nActive networking to establish strategic partnerships and expand the project’s reach.\nConducted market research to identify opportunities and refine product positioning.\nFunding applications for a startup\nValidation of hypotheses through user testing and stakeholder interviews.\n\nDevelopment of a marketing and customer acquisition strategy.\n\n\n\nTeaching Assistant\nJuly 2025\nInteractive Visualization, Dashboards, and Apps with R and Shiny, ICPSR Summer Program, Michigan State University, Ann Arbor\n\nCourse setup in collaboration with Yannick Dufresne, course instructor.\n\nSupporting students during lab sessions.\n\n\n\nResearch Assistant\n2021 - present\nLeadership Chair in the Teaching of Digital Social Sciences (CLESSN), Université Laval, Quebec City\n\nMastery of the R programming language, with direct application in specific theoretical contexts.\n\nEssential contribution to CLESSN’s flagship projects: Datagotchi, Polimètre, and the Quorum Project.\n\nRefinement and application of advanced data analysis techniques to support research and publication projects.\n\nCo-writing and production of academic publications, detailed in the Publications and Conferences section.\n\nActive role in the design and implementation of software infrastructure (on AWS) and a data platform specifically adapted to the needs and challenges of digital social sciences.\n\nPreparation and submission of grant applications and ethics approval requests.\n\nCollaboration with external partners.\n\nFor more details on specific projects and achievements, see the Achievements section.\n\n\n\nData Scientist\n2022 - 2024\nMitacs, Musée de la civilisation de Québec (MCQ), Quebec City\n\nEnhancing data from surveys conducted by the MCQ.\n\nApplication of advanced analysis techniques in a professional practical case.\n\nWriting and production of two strategic reports prescribing targeted marketing orientations for the MCQ.\n\nActive collaboration and communication with the MCQ marketing team.\n\n\n\nData Scientist\n2023 - 2024\nInterdisciplinary Center for Research on Africa and the Middle East (CIRAM), Université Laval, Quebec City\n\nEnhancement of a database on political dynasties.\n\n\n\nTeaching Assistant\n2022 - 2024\nPOL-7004 - Quantitative Analysis, Université Laval, Quebec City\n\nGrading exams and exercises.\n\nTechnical assistance to students.\n\nTheoretical assistance to students.\n\n\n\nStudent Representative\n2023 - present\nCentre de recherche en données massives, Université Laval, Quebec City\n\nRepresent student interests within the center.\n\nParticipation in management committee meetings.\n\nHelp organize social events.\n\n\n\nResearcher for the Polimètre\n2021\nCenter for Public Policy Analysis, Université Laval, Quebec City\n\nMonitor the fulfillment of the Trudeau government’s promises (2019-2021).\n\n\n\nAmateur Scout\n2019 - 2021\nMontréal-Est Rangers\n\nAttend Midget AAA games.\n\nSubmit reports on interesting players.\n\nPreparation for the LHJAAAQ draft.\n\n\n\nTeaching Assistant\n2023\nEIOM, ESEI, Quebec City\n\nTechnical assistance to students."
+  },
+  {
+    "objectID": "en/cv/cv.html#publications-and-conferences",
+    "href": "en/cv/cv.html#publications-and-conferences",
+    "title": "Hubert Cadieux",
+    "section": "Publications and Conferences",
+    "text": "Publications and Conferences\n\n\nShow / Hide\n\n\nJournal Articles\n\n\nShow / Hide\n\n\n\nCadieux, Hubert, Catherine Ouellet, Sarah-Jane Vincent, Jérémy Gilbert, Camille Pelletier, and Yannick Dufresne. 2024. “Electoral Dynamics in Quebec: Analyzing the Rise of the Parti Québécois Through the Lens of Potential for Growth.” French Politics, December. https://doi.org/10.1057/s41253-024-00274-z.\n\n\nDéry, Axel, Alexis Bibeau, Hubert Cadieux, and Yannick Dufresne. 2022. “Sur Le Potentiel de Croissance Du Parti Conservateur Du Québec.” Canadian Journal of Political Science/Revue Canadienne de Science Politique 55 (4): 972–77. https://doi.org/10.1017/S0008423922000762.\n\n\nM. Foisy, Laurence-Olivier, Jérémie Drouin, Camille Pelletier, Jozef Rivest, Hubert Cadieux, and Yannick Dufresne. 2024. “Ain’t No Party Like a GPT Party: Assessing OpenAI’s GPT Political Alignment Classification Capabilities.” Journal of Information Technology & Politics, December, 1–13. https://doi.org/10.1080/19331681.2024.2444587.\n\n\nThompson-Collart, Brian, Hubert Cadieux, Catherine Ouellet, and Yannick Dufresne. 2024. “Lessons Learned: Citizen Forecasting, Candidate Resignations, and the 2024 US Presidential Election.” PS: Political Science & Politics, 1–16.\n\n\nTremblay-Antoine, Camille, Hubert Cadieux, Yannick Dufresne, and Adrien Cloutier. 2024. “Pledge Salience: A Scoping Review of a Non-consensual Concept.”\n\n\n\n\n\nConference Presentations\n\n\nShow / Hide\n\n\n\nCadieux, Hubert. 2023. “On Volatility and Parties’ Potential for Growth in Multiparty Systems: The Case of the 2022 Quebec Election.” St. Pete Beach, FL, USA.\n\n\n———. 2024a. “Forecasting Election Swings in Multiparty Systems Using Underlying Potential for Growth of Parties.” Nouvelle-Orléans.\n\n\n———. 2024b. “Optimizing Electoral Strategies in Quebec’s Multiparty System: A Machine Learning Approach to Assessing Party Potential for Growth.” Québec (Québec).\n\n\nGajevic Sayegh, Alexandre. 2022. “Can Fairness and Green Jobs Accelerate the Energy Transition in Canada?” Montréal, Qc, Canada.\n\n\n\n\n\nMedia Articles\n\n\nShow / Hide\n\n\n\nBlais, Stéphane. 2022. “L’importance du climat varie selon l’allégeance politique.” Le Devoir. https://www.ledevoir.com/politique/quebec/760221/l-importance-du-climat-varie-selon-l-allegeance-politique.\n\n\nDescurninges, Clara. 2022a. “La polarisation en données: un portrait plus nuancé qu’on pourrait le croire.” Journal Métro.\n\n\n———. 2022b. “Legault évite de parler d’économie en ligne, mais domine quand même sur cet enjeu.” Le Soleil. https://www.lesoleil.com/2022/09/17/legault-evite-de-parler-deconomie-en-ligne-mais-domine-quand-meme-sur-cet-enjeu-96785889a0cdd48da6cb3fda3fbe7c5a/."
+  },
+  {
+    "objectID": "en/cv/cv.html#scholarships-received",
+    "href": "en/cv/cv.html#scholarships-received",
+    "title": "Hubert Cadieux",
+    "section": "Scholarships Received",
+    "text": "Scholarships Received\n\n\nShow / Hide\n\n\nMaster’s Research Scholarship\n2024 - 2026\nFonds de recherche du Québec (FRQ), Society and Culture\n\n\nNext Generation Support Scholarship - Bachelor’s\n2021 - 2022\nInternational Observatory on the Societal Impacts of AI and Digital Technology (OBVIA)"
+  },
+  {
+    "objectID": "en/cv/cv.html#achievements",
+    "href": "en/cv/cv.html#achievements",
+    "title": "Hubert Cadieux",
+    "section": "Achievements",
+    "text": "Achievements\n\n\nShow / Hide\n\n\nFusion of multiple political surveys.\n\nCreation of the R package sondr which offers useful functions for survey analysis.\n\nCreation of R packages useful for digital social science data analysis.\n\nMentoring novice students in data analysis projects.\n\nMember of the Center for Public Policy Analysis (CAPP) and the Political Communication Research Group (GRCP).\n\nTraining CLESSN students in the extract-transform-load (ETL) methodology in an academic context.\n\nData analyst in the creation of the Datagotchi voting prediction tool, which attempts to predict individual voting based strictly on lifestyle habits.\n\nData analyst for CLESSN’s coverage of the 2022 Quebec election campaign in partnership with The Canadian Press.\n\nContributions to Project Quorum – energy transition component: literature review on citizen attitudes and perceptions, design of an 80-question pilot survey, and market study for web development.\n\nDevelopment of a Web application facilitating the organizational management of the Polimètre.\n\nProgramming of a conjoint analysis on Qualtrics software to identify Quebecers’ biases regarding different electoral bases.\n\nLayout work for the manuscript of the collective book Assessment of the CAQ Government: Between Nationalism and Pandemic by Birch et al., published in 2022.\n\nAnalysis of Université Laval Foundation data."
+  },
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "Hello!\nMy portfolio is currently under construction. You can check my CV in the meantime."
+  },
+  {
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "Bonjour!\nMon portfolio est actuellement en construction. Vous pouvez consulter mon CV en attendant."
   }
 ]

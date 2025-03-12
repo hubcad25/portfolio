@@ -30,14 +30,14 @@ biblio-sort: ascending
 <summary>Show / Hide</summary>
 
 ::: {.timeline-item}
-### Master's in Political Science -- with thesis
+### Master’s in Political Science (Thesis track)
 **2024 - present**  
 _Université Laval, Quebec City_
 
-**Journey and Learning**:
+**Courses and Learning**:
 
 - Master's thesis focusing on optimizing growth potential for political parties in multiparty systems
-- Deepening knowledge in the following areas of political science:
+- Developing expertise in the following areas of political science:
   - Application of machine learning in political science
   - Application of Bayesian approach in political science
   - Quantitative analysis
@@ -55,7 +55,7 @@ _Université Laval, Quebec City_
 **2020 - 2023**  
 _Université Laval, Quebec City_
 
-**Journey and Learning**:
+**Courses and Learning**:
 
 - Honors mention from the Faculty of Social Sciences
 - Completed the course _POL-2425 Persuasion and Public Opinion_ which deepened my understanding of public opinion studies.
@@ -68,11 +68,11 @@ _Université Laval, Quebec City_
 <br>
 
 ::: {.timeline-item}
-### Diploma from the Interdisciplinary School of Tools and Methods (EIOM)  
+### Diploma from the École interdisciplinaire outils & méthodes (EIOM)  
 **2022 - 2023**  
-_School of Advanced International Studies (ESEI), Quebec City_  
+_Graduate School of International Studies (ESEI), Quebec City_  
 
-**Journey and Learning:**  
+**Courses and Learning:**  
 
 - Followed the path _Distinguishing Cause from Effect: Causality and Experimentation_  
 - Followed the path _Data Science: Modeling and Prediction_  
@@ -91,7 +91,7 @@ _School of Advanced International Studies (ESEI), Quebec City_
 **2024**  
 _Entrepreneuriat ULaval, Université Laval, Quebec City_  
 
-**Journey and Learning:**  
+**Courses and Learning:**  
 
 - Acquisition of basic accounting and financial forecasting concepts
 - Development of an investor pitch
@@ -105,7 +105,7 @@ _Entrepreneuriat ULaval, Université Laval, Quebec City_
 **2024**  
 _Entrepreneuriat ULaval, Université Laval, Quebec City_  
 
-**Journey and Learning:**  
+**Courses and Learning:**  
 
 - Deepened my reflection on my business idea.  
 - Value proposition, competitive analysis.  
@@ -116,9 +116,9 @@ _Entrepreneuriat ULaval, Université Laval, Quebec City_
 ::: {.timeline-item}
 ### AI Bootcamp  
 **2023**  
-_Institute for Intelligence and Data (IID), Université Laval, Quebec City_  
+Institut intelligence et données (IID), Université Laval, Quebec City_  
 
-**Journey and Learning:**  
+**Courses and Learning:**  
 
 - Learning the fundamental principles of machine learning and deep learning, with practical application using scikit-learn and PyTorch.  
 - Exploration of concepts and challenges related to ethical and responsible AI.  
@@ -132,7 +132,7 @@ _Institute for Intelligence and Data (IID), Université Laval, Quebec City_
 **2017 - 2020**  
 _Cégep de Saint-Hyacinthe_  
 
-**Journey and Learning:**  
+**Courses and Learning:**  
 
 - Introduction to the main fields of social sciences.  
 - Acquisition of basic knowledge in linear algebra and differential calculus.  
@@ -153,6 +153,7 @@ _Cégep de Saint-Hyacinthe_
 ### Launching Opubliq  
 **2024 - present**  
 
+- [Opubliq](https://opubliq.com/) is a public opinion data anlysis startup I am currently launching.
 - Design and prototyping of a **Software as a Service (SaaS)** adapted to the needs of municipal political parties.  
 - Active networking to establish strategic partnerships and expand the project's reach.
 - Conducted market research to identify opportunities and refine product positioning.
@@ -180,16 +181,16 @@ _Interactive Visualization, Dashboards, and Apps with R and Shiny, ICPSR Summer 
 ::: {.timeline-item}
 ### Research Assistant  
 **2021 - present**  
-_Chair of Leadership in Education of Digital Social Sciences (CLESSN), Université Laval, Quebec City_  
+_Leadership Chair in the Teaching of Digital Social Sciences (CLESSN), Université Laval, Quebec City_  
 
 - Mastery of the R programming language, with direct application in specific theoretical contexts.  
-- Essential contribution to CLESSN's flagship projects: Datagotchi, Polimètre, and Project Quorum.  
+- Essential contribution to CLESSN's flagship projects: Datagotchi, Polimètre, and the Quorum Project.  
 - Refinement and application of advanced data analysis techniques to support research and publication projects.  
-- Co-writing and production of academic publications, detailed in the [Publications and Conferences](#publications) section.  
+- Co-writing and production of academic publications, detailed in the Publications and Conferences section.  
 - Active role in the design and implementation of software infrastructure (on AWS) and a data platform specifically adapted to the needs and challenges of digital social sciences.  
 - Preparation and submission of grant applications and ethics approval requests.  
 - Collaboration with external partners.  
-- For more details on specific projects and achievements, see the [Achievements](#realisations) section.  
+- For more details on specific projects and achievements, see the Achievements section.  
 
 :::
 
@@ -198,7 +199,7 @@ _Chair of Leadership in Education of Digital Social Sciences (CLESSN), Universit
 ::: {.timeline-item}
 ### Data Scientist  
 **2022 - 2024**  
-_Mitacs, Museum of Civilization of Quebec (MCQ), Quebec City_  
+_Mitacs, Musée de la civilisation de Québec (MCQ), Quebec City_  
 
 - Enhancing data from surveys conducted by the MCQ.  
 - Application of advanced analysis techniques in a professional practical case.  
@@ -234,7 +235,7 @@ _POL-7004 - Quantitative Analysis, Université Laval, Quebec City_
 ::: {.timeline-item}
 ### Student Representative  
 **2023 - present**  
-_Big Data Research Center, Université Laval, Quebec City_  
+_Centre de recherche en données massives, Université Laval, Quebec City_  
 
 - Represent student interests within the center.  
 - Participation in management committee meetings.  
@@ -325,7 +326,7 @@ _EIOM, ESEI, Quebec City_
 ::: {.timeline-item}
 ### Master's Research Scholarship  
 **2024 - 2026**  
-_Quebec Research Fund (FRQ), Society and Culture_  
+_Fonds de recherche du Québec (FRQ), Society and Culture_  
 :::
 
 ::: {.timeline-item}

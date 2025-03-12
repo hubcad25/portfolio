@@ -153,6 +153,7 @@ _Cégep de Saint-Hyacinthe_
 ### Démarrage de Opubliq  
 **2024 - présent**  
 
+- [Opubliq](https://opubliq.com/) est une startup d'analyse de données d'opinion publique que je lance actuellement.
 - Conception et prototypage d'un **Software as a Service (SaaS)** adapté aux besoins des partis politiques municipaux.  
 - Réseautage actif pour établir des partenariats stratégiques et élargir la portée du projet.
 - Mené une étude de marché pour identifier les opportunités et affiner le positionnement du produit.
@@ -185,11 +186,11 @@ _Chaire de leadership en enseignement des sciences sociales numériques (CLESSN)
 - Maîtrise du langage de programmation R, avec une application directe dans des contextes théoriques spécifiques.  
 - Contribution essentielle aux projets phares de la CLESSN : Datagotchi, Polimètre et Projet Quorum.  
 - Perfectionnement et application de techniques avancées en analyse de données pour soutenir les projets de recherche et publication.  
-- Co-rédaction et production de publications académiques, détaillées dans la section [Publications et conférences](#publications).  
+- Co-rédaction et production de publications académiques, détaillées dans la section Publications et conférences.
 - Rôle actif dans la conception et mise en œuvre d'une infrastructure logicielle (sur AWS) et d'une plateforme de données spécifiquement adaptées aux besoins et aux défis des sciences sociales numériques.  
 - Préparation et soumission de demandes de subvention et de demandes d'approbation éthique.  
 - Collaboration avec des partenaires externes.  
-- Pour plus de détails sur des projets spécifiques et des réalisations, voir la section [Réalisations](#realisations).  
+- Pour plus de détails sur des projets spécifiques et des réalisations, voir la section Réalisations.  
 
 :::
 
@@ -275,7 +276,7 @@ _EIOM, ESEI, Ville de Québec_
 </details>
 
 
-## Publications et conférences
+## Publications et conférences {#sec-publications}
 
 
 <details>
@@ -336,7 +337,7 @@ _Observatoire international sur les impacts sociétaux de l’IA et du numériqu
 
 </details>
 
-## Réalisations
+## Réalisations {#sec-realisations}
 
 <details>
   <summary>Afficher / Masquer</summary>
