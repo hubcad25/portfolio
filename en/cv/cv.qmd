@@ -1,0 +1,520 @@
+---
+title: "Hubert Cadieux"
+subtitle: "Social Data Scientist"
+#author: "Your Name"
+#date: "`r Sys.Date()`"
+format:
+  html:
+    css: styles.css
+    page-layout: custom
+  pdf: default
+lang: en
+filters: 
+    - multibib
+validate-yaml: false
+bibliography:
+    articles: references/articles.bib
+    media: references/media.bib
+    presentations: references/presentations.bib
+nocite: "@*"
+biblio-sort: ascending
+---
+
+::: {.layout}
+
+::: {.timeline}
+
+## Education
+
+<details>
+<summary>Show / Hide</summary>
+
+::: {.timeline-item}
+### Master's in Political Science -- with thesis
+**2024 - present**  
+_Université Laval, Quebec City_
+
+**Journey and Learning**:
+
+- Master's thesis focusing on optimizing growth potential for political parties in multiparty systems
+- Deepening knowledge in the following areas of political science:
+  - Application of machine learning in political science
+  - Application of Bayesian approach in political science
+  - Quantitative analysis
+  - Representation of political interests
+  - Political communication
+  - Political philosophy
+- Deepening the research process in quantitative political science
+
+:::
+
+<br>
+
+::: {.timeline-item}
+### Integrated Bachelor's in Economics and Politics
+**2020 - 2023**  
+_Université Laval, Quebec City_
+
+**Journey and Learning**:
+
+- Honors mention from the Faculty of Social Sciences
+- Completed the course _POL-2425 Persuasion and Public Opinion_ which deepened my understanding of public opinion studies.
+- Introduction and in-depth study of the main theories of political science and economics.
+- Acquired fundamentals of research in political and economic sciences.
+- Designed and developed a research project analyzing Université Laval students' perceptions regarding the economic aspects of Quebec City's tramway project, involving survey design, data collection and analysis, and presentation of results.
+
+:::
+
+<br>
+
+::: {.timeline-item}
+### Diploma from the Interdisciplinary School of Tools and Methods (EIOM)  
+**2022 - 2023**  
+_School of Advanced International Studies (ESEI), Quebec City_  
+
+**Journey and Learning:**  
+
+- Followed the path _Distinguishing Cause from Effect: Causality and Experimentation_  
+- Followed the path _Data Science: Modeling and Prediction_  
+- Mastery of advanced methods in analysis and modeling, including multiple regression, machine learning, data visualization, and dimensionality reduction.  
+- Acquisition of fundamental skills in logic and causal structuring.  
+- Development of skills in causal inference from observational data, applying techniques and methods such as synthetic groups, difference-in-differences, regression discontinuity, and matching.  
+
+:::
+
+
+<br>
+
+
+::: {.timeline-item}
+### Innovation and Potential Validation Program (VIP)  
+**2024**  
+_Entrepreneuriat ULaval, Université Laval, Quebec City_  
+
+**Journey and Learning:**  
+
+- Acquisition of basic accounting and financial forecasting concepts
+- Development of an investor pitch
+
+:::
+
+
+
+::: {.timeline-item}
+### Business Opportunity Validation Program (VOA)  
+**2024**  
+_Entrepreneuriat ULaval, Université Laval, Quebec City_  
+
+**Journey and Learning:**  
+
+- Deepened my reflection on my business idea.  
+- Value proposition, competitive analysis.  
+
+:::
+
+
+::: {.timeline-item}
+### AI Bootcamp  
+**2023**  
+_Institute for Intelligence and Data (IID), Université Laval, Quebec City_  
+
+**Journey and Learning:**  
+
+- Learning the fundamental principles of machine learning and deep learning, with practical application using scikit-learn and PyTorch.  
+- Exploration of concepts and challenges related to ethical and responsible AI.  
+- Introduction to optimization methods for machine learning models, including high-performance computing and Bayesian optimization.  
+
+:::
+
+
+::: {.timeline-item}
+### College Diploma (DEC) in Social Sciences - administration profile  
+**2017 - 2020**  
+_Cégep de Saint-Hyacinthe_  
+
+**Journey and Learning:**  
+
+- Introduction to the main fields of social sciences.  
+- Acquisition of basic knowledge in linear algebra and differential calculus.  
+
+:::
+
+
+</details>
+
+
+
+## Work Experience
+
+<details>
+<summary>Show / Hide</summary>
+
+::: {.timeline-item}
+### Launching Opubliq  
+**2024 - present**  
+
+- Design and prototyping of a **Software as a Service (SaaS)** adapted to the needs of municipal political parties.  
+- Active networking to establish strategic partnerships and expand the project's reach.
+- Conducted market research to identify opportunities and refine product positioning.
+- Funding applications for a startup
+- Validation of hypotheses through user testing and stakeholder interviews.  
+- Development of a marketing and customer acquisition strategy.  
+
+:::
+
+
+
+
+::: {.timeline-item}
+### Teaching Assistant  
+**July 2025**  
+_Interactive Visualization, Dashboards, and Apps with R and Shiny, ICPSR Summer Program, Michigan State University, Ann Arbor_  
+
+- Course setup in collaboration with Yannick Dufresne, course instructor.  
+- Supporting students during lab sessions.  
+
+:::
+
+
+
+::: {.timeline-item}
+### Research Assistant  
+**2021 - present**  
+_Chair of Leadership in Education of Digital Social Sciences (CLESSN), Université Laval, Quebec City_  
+
+- Mastery of the R programming language, with direct application in specific theoretical contexts.  
+- Essential contribution to CLESSN's flagship projects: Datagotchi, Polimètre, and Project Quorum.  
+- Refinement and application of advanced data analysis techniques to support research and publication projects.  
+- Co-writing and production of academic publications, detailed in the [Publications and Conferences](#publications) section.  
+- Active role in the design and implementation of software infrastructure (on AWS) and a data platform specifically adapted to the needs and challenges of digital social sciences.  
+- Preparation and submission of grant applications and ethics approval requests.  
+- Collaboration with external partners.  
+- For more details on specific projects and achievements, see the [Achievements](#realisations) section.  
+
+:::
+
+
+
+::: {.timeline-item}
+### Data Scientist  
+**2022 - 2024**  
+_Mitacs, Museum of Civilization of Quebec (MCQ), Quebec City_  
+
+- Enhancing data from surveys conducted by the MCQ.  
+- Application of advanced analysis techniques in a professional practical case.  
+- Writing and production of two strategic reports prescribing targeted marketing orientations for the MCQ.  
+- Active collaboration and communication with the MCQ marketing team.  
+
+:::
+
+
+
+::: {.timeline-item}
+### Data Scientist  
+**2023 - 2024**  
+_Interdisciplinary Center for Research on Africa and the Middle East (CIRAM), Université Laval, Quebec City_  
+
+- Enhancement of a database on political dynasties.  
+
+:::
+
+
+::: {.timeline-item}
+### Teaching Assistant  
+**2022 - 2024**  
+_POL-7004 - Quantitative Analysis, Université Laval, Quebec City_  
+
+- Grading exams and exercises.  
+- Technical assistance to students.  
+- Theoretical assistance to students.  
+
+:::
+
+
+::: {.timeline-item}
+### Student Representative  
+**2023 - present**  
+_Big Data Research Center, Université Laval, Quebec City_  
+
+- Represent student interests within the center.  
+- Participation in management committee meetings.  
+- Help organize social events.  
+
+:::
+
+::: {.timeline-item}
+### Researcher for the Polimètre  
+**2021**  
+_Center for Public Policy Analysis, Université Laval, Quebec City_  
+
+- Monitor the fulfillment of the Trudeau government's promises (2019-2021).  
+
+:::
+
+::: {.timeline-item}
+### Amateur Scout  
+**2019 - 2021**  
+_Montréal-Est Rangers_  
+
+- Attend Midget AAA games.  
+- Submit reports on interesting players.  
+- Preparation for the LHJAAAQ draft.  
+
+:::
+
+::: {.timeline-item}
+### Teaching Assistant  
+**2023**  
+_EIOM, ESEI, Quebec City_  
+
+- Technical assistance to students.
+
+:::
+
+
+</details>
+
+
+## Publications and Conferences
+
+
+<details>
+<summary>Show / Hide</summary>
+
+
+### Journal Articles  
+
+<details>
+<summary>Show / Hide</summary>
+
+::: {#refs-articles}
+:::
+
+</details>
+
+
+### Conference Presentations
+
+<details>
+<summary>Show / Hide</summary>
+
+::: {#refs-presentations}
+:::
+
+</details>
+
+
+### Media Articles
+
+<details>
+<summary>Show / Hide</summary>
+
+::: {#refs-media}
+:::
+
+</details>
+
+</details>
+
+
+## Scholarships Received
+
+<details>
+<summary>Show / Hide</summary>
+
+::: {.timeline-item}
+### Master's Research Scholarship  
+**2024 - 2026**  
+_Quebec Research Fund (FRQ), Society and Culture_  
+:::
+
+::: {.timeline-item}
+### Next Generation Support Scholarship - Bachelor's  
+**2021 - 2022**  
+_International Observatory on the Societal Impacts of AI and Digital Technology (OBVIA)_  
+:::
+
+</details>
+
+## Achievements
+
+<details>
+  <summary>Show / Hide</summary>
+
+- Fusion of multiple political surveys.  
+- Creation of the R package *sondr* which offers useful functions for survey analysis.  
+- Creation of R packages useful for digital social science data analysis.  
+- Mentoring novice students in data analysis projects.  
+- Member of the Center for Public Policy Analysis (CAPP) and the Political Communication Research Group (GRCP).  
+- Training CLESSN students in the extract-transform-load (ETL) methodology in an academic context.  
+- Data analyst in the creation of the Datagotchi voting prediction tool, which attempts to predict individual voting based strictly on lifestyle habits.  
+- Data analyst for CLESSN's coverage of the 2022 Quebec election campaign in partnership with The Canadian Press.  
+- Contributions to Project Quorum – energy transition component: literature review on citizen attitudes and perceptions, design of an 80-question pilot survey, and market study for web development.  
+- Development of a Web application facilitating the organizational management of the Polimètre.  
+- Programming of a conjoint analysis on Qualtrics software to identify Quebecers' biases regarding different electoral bases.  
+- Layout work for the manuscript of the collective book *Assessment of the CAQ Government: Between Nationalism and Pandemic* by Birch et al., published in 2022.  
+- Analysis of Université Laval Foundation data.  
+
+</details>
+
+
+
+
+:::
+<!-- End of timeline -->
+
+
+
+
+<!-- Start of sidebar -->
+
+::: {.sidebar}
+
+<!---
+[PDF Version](cv.pdf)
+--->
+
+![](avatar.png){.profile-pic}
+
+### Contact Information  
+📧 [hubertcadieux@opubliq.com](mailto:hubertcadieux@opubliq.com)<br>
+📧 [hubert.cadieux.1@ulaval.ca](mailto:hubert.cadieux.1@ulaval.ca)<br>
+📧 [hubertcadieux@gmail.com](mailto:hubertcadieux@gmail.com)<br>
+📞 (438) 825-3958<br>
+📍 6-70 Saint-Louis Street, Quebec City, QC, Canada
+
+### Languages
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>French</span>
+        <span>Fluent</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 100%;"></div>
+    </div>
+</div>
+```
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>English</span>
+        <span>Advanced</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 85%;"></div>
+    </div>
+</div>
+```
+
+### Programming Languages 
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>R</span>
+        <span>Fluent</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 100%;"></div>
+    </div>
+</div>
+```
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>R Shiny</span>
+        <span>Fluent</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 100%;"></div>
+    </div>
+</div>
+```
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>Markdown</span>
+        <span>Advanced</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 90%;"></div>
+    </div>
+</div>
+```
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>Python</span>
+        <span>Intermediate</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 75%;"></div>
+    </div>
+</div>
+```
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>LaTeX</span>
+        <span>Intermediate</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 75%;"></div>
+    </div>
+</div>
+```
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>HTML</span>
+        <span>Beginner</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 25%;"></div>
+    </div>
+</div>
+```
+
+```{=html}
+<!-- Put your HTML directly inside this block -->
+<div class="language-container">
+    <div class="language-labels">
+        <span>JavaScript</span>
+        <span>Beginner</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-bar-inner" style="width: 25%;"></div>
+    </div>
+</div>
+```
+
+
+### Skills  
+- Data analysis
+- Bayesian analysis
+- Predictive modeling
+- Local parallel computing
+- Advanced data visualization
+- Survey programming
+- R package creation
+- Mentoring, teaching
+- Project management
+- Coordination of ethics approval request
+:::
+:::

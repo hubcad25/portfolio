@@ -2,6 +2,6 @@
 title: "portfolio"
 ---
 
-## Quarto
+Hello!
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+My portfolio is currently under construction. You can check my [CV](cv/cv.html) in the meantime.

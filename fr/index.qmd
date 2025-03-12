@@ -2,7 +2,6 @@
 title: "portfolio"
 ---
 
-## Quarto
+Bonjour!
 
-Quarto vous permet de combiner contenu et code  vérifiable dans un document terminé. Pour en savoir plus sur Quarto, voir <https://quarto.org>.
-
+Mon portfolio est actuellement en construction. Vous pouvez consulter mon [CV](cv/cv.html) en attendant.
