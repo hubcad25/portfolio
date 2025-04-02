@@ -1,0 +1,1205 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{blais22}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6337358164e54ec14993e85c9734cd13}{%
+           family={Blais},
+           familyi={B\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6337358164e54ec14993e85c9734cd13}
+      \strng{fullhash}{6337358164e54ec14993e85c9734cd13}
+      \strng{fullhashraw}{6337358164e54ec14993e85c9734cd13}
+      \strng{bibnamehash}{6337358164e54ec14993e85c9734cd13}
+      \strng{authorbibnamehash}{6337358164e54ec14993e85c9734cd13}
+      \strng{authornamehash}{6337358164e54ec14993e85c9734cd13}
+      \strng{authorfullhash}{6337358164e54ec14993e85c9734cd13}
+      \strng{authorfullhashraw}{6337358164e54ec14993e85c9734cd13}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Selon une étude, les conservateurs mangent beaucoup de viande et les solidaires sont nombreux à être écoanxieux.}
+      \field{howpublished}{https://www.ledevoir.com/politique/quebec/760221/l-importance-du-climat-varie-selon-l-allegeance-politique}
+      \field{journaltitle}{Le Devoir}
+      \field{langid}{french}
+      \field{month}{9}
+      \field{title}{{L'importance du climat varie selon l'allégeance politique}}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \keyw{journal}
+    \endentry
+    \entry{cadieux23}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {St. Pete Beach, FL, USA}%
+      }
+      \strng{namehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{fullhash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{fullhashraw}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{bibnamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorbibnamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authornamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorfullhash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorfullhashraw}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{On {{Volatility}} and {{Parties}}' {{Potential}} for {{Growth}} in {{Multiparty Systems}}: {{The Case}} of the 2022 {{Quebec Election}}}
+      \field{year}{2023}
+      \true{nocite}
+      \keyw{presentation}
+    \endentry
+    \entry{cadieux24}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Nouvelle-Orléans}%
+      }
+      \strng{namehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{fullhash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{fullhashraw}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{bibnamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorbibnamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authornamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorfullhash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorfullhashraw}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{Forecasting {{Election Swings}} in {{Multiparty Systems Using Underlying Potential}} for {{Growth}} of {{Parties}}}
+      \field{year}{2024}
+      \true{nocite}
+      \keyw{presentation}
+    \endentry
+    \entry{cadieux24a}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Québec (Québec)}%
+      }
+      \strng{namehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{fullhash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{fullhashraw}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{bibnamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorbibnamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authornamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorfullhash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorfullhashraw}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \field{extraname}{3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{Optimizing {{Electoral Strategies}} in {{Quebec}}'s {{Multiparty System}}: {{A Machine Learning Approach}} to {{Assessing Party Potential}} for {{Growth}}}
+      \field{year}{2024}
+      \true{nocite}
+      \keyw{presentation}
+    \endentry
+    \entry{cadieux_etal24}{article}{}{}
+      \name{author}{6}{ul=1}{%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c5abcae08c9e658bf290eebc577d246}{%
+           family={Ouellet},
+           familyi={O\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ce38c7ad6df7beed2a98bd411f7b2bb}{%
+           family={Vincent},
+           familyi={V\bibinitperiod},
+           given={Sarah-Jane},
+           giveni={S\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=750f872b84960fe2d76eea63fe5afe1e}{%
+           family={Gilbert},
+           familyi={G\bibinitperiod},
+           given={Jérémy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=408d74359a0748b8a2b5aecb3071e001}{%
+           family={Pelletier},
+           familyi={P\bibinitperiod},
+           given={Camille},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb91830007066e62caac34c5247f3f73}{%
+           family={Dufresne},
+           familyi={D\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f38e2b6412b8e7cabaed4708feed4e49}
+      \strng{fullhash}{f3f0f9cecd15347bd0c312c05c3fe4dd}
+      \strng{fullhashraw}{f3f0f9cecd15347bd0c312c05c3fe4dd}
+      \strng{bibnamehash}{f3f0f9cecd15347bd0c312c05c3fe4dd}
+      \strng{authorbibnamehash}{f3f0f9cecd15347bd0c312c05c3fe4dd}
+      \strng{authornamehash}{f38e2b6412b8e7cabaed4708feed4e49}
+      \strng{authorfullhash}{f3f0f9cecd15347bd0c312c05c3fe4dd}
+      \strng{authorfullhashraw}{f3f0f9cecd15347bd0c312c05c3fe4dd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In the complex landscape of multiparty electoral systems, accurately capturing shifts in voter preferences poses significant challenges. Traditional polling methods, which rely heavily on basic vote intention metrics, often fail to predict substantial changes in voter support. A notable example is the recent resurgence of the Parti Québécois (PQ) in Quebec, which reached levels of support unseen since 1988. This resurgence, alongside other unexpected electoral outcomes, underscores the limitations of conventional forecasting methods. By examining the Quebec political scene post-2022 election, this research note assesses the effectiveness of the Relative Confidence Index (RCI), an innovative yet underutilized metric, in quantifying parties' potential for growth. Findings suggest that the RCI could have provided early insight into the PQ's unexpected resurgence. More broadly, the study argues that the RCI addresses a critical gap in traditional vote choice measurement by offering detailed insights into voter likelihoods and party preferences, thereby fulfilling the need for more accurate and informative measures in multiparty systems.}
+      \field{issn}{1476-3427}
+      \field{journaltitle}{French Politics}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shorttitle}{Electoral Dynamics in {{Quebec}}}
+      \field{title}{Electoral Dynamics in {{Quebec}}: Analyzing the Rise of the {{Parti Québécois}} through the Lens of Potential for Growth}
+      \field{urlday}{16}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1057/s41253-024-00274-z
+      \endverb
+      \verb{file}
+      \verb /home/hubcad25/Dropbox/Zotero/storage/S6QE54UF/Cadieux et al. - 2024 - Electoral dynamics in Quebec analyzing the rise of the Parti Québécois through the lens of potentia.pdf
+      \endverb
+      \keyw{article,Election forecasting,Electoral dynamics,Multiparty systems,Quebec politics,Relative Confidence Index (RCI)}
+    \endentry
+    \entry{dery_etal22}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=201799d0c1f0b90a3b735d2a4e541143}{%
+           family={Déry},
+           familyi={D\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ec758dbc62d4d8f23d8bf059abffc08}{%
+           family={Bibeau},
+           familyi={B\bibinitperiod},
+           given={Alexis},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb91830007066e62caac34c5247f3f73}{%
+           family={Dufresne},
+           familyi={D\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b7c0f790f4501aa028eee3c911bbbebd}
+      \strng{fullhash}{2675571312fc12f13eb1cac8315ef2f3}
+      \strng{fullhashraw}{2675571312fc12f13eb1cac8315ef2f3}
+      \strng{bibnamehash}{2675571312fc12f13eb1cac8315ef2f3}
+      \strng{authorbibnamehash}{2675571312fc12f13eb1cac8315ef2f3}
+      \strng{authornamehash}{b7c0f790f4501aa028eee3c911bbbebd}
+      \strng{authorfullhash}{2675571312fc12f13eb1cac8315ef2f3}
+      \strng{authorfullhashraw}{2675571312fc12f13eb1cac8315ef2f3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Depuis un an, le Parti conservateur du Québec (PCQ) a fait des gains considérables dans les sondages d'intention de vote. Le parti peut-il encore faire des gains ou a-t-il atteint son plein potentiel? Dans cette note de recherche, nous tentons de répondre à cette question en utilisant un nouvel indicateur, l'index relatif de confiance (IRC), qui permet de mesurer le potentiel de croissance et la solidité du vote des partis. , Abstract Over the past year, the Conservative Party of Quebec has made significant gains in polls. Can the party still make gains, or has it reached its full potential? In this research note, we attempt to answer this question using a new indicator, the Relative Confidence Index (RCI), which measures the potential for growth and solidity of the vote based on voters' expressed likelihood to vote for the parties.}
+      \field{issn}{0008-4239, 1744-9324}
+      \field{journaltitle}{Canadian Journal of Political Science/Revue canadienne de science politique}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Sur Le Potentiel de Croissance Du {{Parti}} Conservateur Du {{Québec}}}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{55}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{972\bibrangedash 977}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1017/S0008423922000762
+      \endverb
+      \verb{file}
+      \verb /home/hubcad25/Dropbox/Zotero/storage/JYI3KDU8/Déry et al. - 2022 - Sur le potentiel de croissance du Parti conservate.pdf;/home/hubcad25/Dropbox/Zotero/storage/XBRBCEZT/sur-le-potentiel-de-croissance-du-parti-conservateur-du-quebec.pdf
+      \endverb
+      \keyw{article,Canadian politics,Conservative Party of Quebec,elections,Parti conservateur du Quebec,politique canadienne,politique quebecoise,polling,Quebec politics,sondages}
+    \endentry
+    \entry{descurninges22}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83cb5f89ba0591a2cd3e7fc23a21a7b1}{%
+           family={Descurninges},
+           familyi={D\bibinitperiod},
+           given={Clara},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{fullhash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{fullhashraw}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{bibnamehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authorbibnamehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authornamehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authorfullhash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authorfullhashraw}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Affiches caquistes dégoulinantes de sang, menaces de mort contre la députée libérale Marwah Rizqy et mesures de sécurité accrues pour plusieurs chefs: si le ton de campagne provinciale a pris une tournure hostile, il n'est toutefois pas dit que ces tensions touchent la population générale.}
+      \field{journaltitle}{Journal Métro}
+      \field{langid}{french}
+      \field{month}{9}
+      \field{shorttitle}{{La polarisation en données}}
+      \field{title}{{La polarisation en données: un portrait plus nuancé qu'on pourrait le croire}}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/hubcad25/Dropbox/Zotero/storage/LPXNGEJD/la-polarisation-donnees-portrait-plus-nuance-quon-pourrait-croire.html
+      \endverb
+      \keyw{journal}
+    \endentry
+    \entry{descurninges22a}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83cb5f89ba0591a2cd3e7fc23a21a7b1}{%
+           family={Descurninges},
+           familyi={D\bibinitperiod},
+           given={Clara},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{fullhash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{fullhashraw}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{bibnamehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authorbibnamehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authornamehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authorfullhash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authorfullhashraw}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{François Legault, qui s'est souvent positionné comme le candidat de l'économie, aborde l'enjeu moins souvent que tous ses adversaires au poste de premier ministre lorsqu'il est en ligne, selon les données de la Chaire de leadership en enseignement des sciences sociales numériques de l'Université Laval (CLESSN).}
+      \field{howpublished}{https://www.lesoleil.com/2022/09/17/legault-evite-de-parler-deconomie-en-ligne-mais-domine-quand-meme-sur-cet-enjeu-96785889a0cdd48da6cb3fda3fbe7c5a/}
+      \field{journaltitle}{Le Soleil}
+      \field{langid}{french}
+      \field{month}{9}
+      \field{title}{{Legault évite de parler d'économie en ligne, mais domine quand même sur cet enjeu}}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/hubcad25/Dropbox/Zotero/storage/HDCZQ3IE/legault-evite-de-parler-deconomie-en-ligne-mais-domine-quand-meme-sur-cet-enjeu-96785889a0cdd48.html
+      \endverb
+      \keyw{journal}
+    \endentry
+    \entry{gajevicsayegh22}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48948d6dfc6e427c8c119df539878977}{%
+           family={Gajevic\bibnamedelima Sayegh},
+           familyi={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Montréal, Qc, Canada}%
+      }
+      \strng{namehash}{48948d6dfc6e427c8c119df539878977}
+      \strng{fullhash}{48948d6dfc6e427c8c119df539878977}
+      \strng{fullhashraw}{48948d6dfc6e427c8c119df539878977}
+      \strng{bibnamehash}{48948d6dfc6e427c8c119df539878977}
+      \strng{authorbibnamehash}{48948d6dfc6e427c8c119df539878977}
+      \strng{authornamehash}{48948d6dfc6e427c8c119df539878977}
+      \strng{authorfullhash}{48948d6dfc6e427c8c119df539878977}
+      \strng{authorfullhashraw}{48948d6dfc6e427c8c119df539878977}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Can {{Fairness}} and {{Green Jobs Accelerate}} the {{Energy Transition}} in {{Canada}}?}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{presentation}
+    \endentry
+    \entry{m_foisy_etal24}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=63c970dca06edc79a61abe01d74f2e94}{%
+           family={M.\bibnamedelimi Foisy},
+           familyi={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Laurence-Olivier},
+           giveni={L\bibinithyphendelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0bb9c44cc373bc1db3cdffe9bc52ce6}{%
+           family={Drouin},
+           familyi={D\bibinitperiod},
+           given={Jérémie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=408d74359a0748b8a2b5aecb3071e001}{%
+           family={Pelletier},
+           familyi={P\bibinitperiod},
+           given={Camille},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96bba75c3bdd350367fbbce79082c642}{%
+           family={Rivest},
+           familyi={R\bibinitperiod},
+           given={Jozef},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb91830007066e62caac34c5247f3f73}{%
+           family={Dufresne},
+           familyi={D\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd5785fc5614bd7169ed845d662937a7}
+      \strng{fullhash}{8369f818739d2ca6272c079c53d0964f}
+      \strng{fullhashraw}{8369f818739d2ca6272c079c53d0964f}
+      \strng{bibnamehash}{8369f818739d2ca6272c079c53d0964f}
+      \strng{authorbibnamehash}{8369f818739d2ca6272c079c53d0964f}
+      \strng{authornamehash}{bd5785fc5614bd7169ed845d662937a7}
+      \strng{authorfullhash}{8369f818739d2ca6272c079c53d0964f}
+      \strng{authorfullhashraw}{8369f818739d2ca6272c079c53d0964f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1933-1681, 1933-169X}
+      \field{journaltitle}{Journal of Information Technology \& Politics}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shorttitle}{Ain't No Party like a {{GPT}} Party}
+      \field{title}{Ain't No Party like a {{GPT}} Party: Assessing {{OpenAI}}'s {{GPT}} Political Alignment Classification Capabilities}
+      \field{urlday}{12}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1080/19331681.2024.2444587
+      \endverb
+      \keyw{article}
+    \endentry
+    \entry{thompson-collart_etal24}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d938c06c213dd9f9d0f2078e02cd1226}{%
+           family={{Thompson-Collart}},
+           familyi={T\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c5abcae08c9e658bf290eebc577d246}{%
+           family={Ouellet},
+           familyi={O\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb91830007066e62caac34c5247f3f73}{%
+           family={Dufresne},
+           familyi={D\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{7bb362caa7ee216e11857b8ce0b7cb17}
+      \strng{fullhash}{ad32c8dcc5472ee14a4e07d185ba069a}
+      \strng{fullhashraw}{ad32c8dcc5472ee14a4e07d185ba069a}
+      \strng{bibnamehash}{ad32c8dcc5472ee14a4e07d185ba069a}
+      \strng{authorbibnamehash}{ad32c8dcc5472ee14a4e07d185ba069a}
+      \strng{authornamehash}{7bb362caa7ee216e11857b8ce0b7cb17}
+      \strng{authorfullhash}{ad32c8dcc5472ee14a4e07d185ba069a}
+      \strng{authorfullhashraw}{ad32c8dcc5472ee14a4e07d185ba069a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{PS: Political Science \& Politics}
+      \field{shorttitle}{Lessons {{Learned}}}
+      \field{title}{Lessons {{Learned}}: {{Citizen Forecasting}}, {{Candidate Resignations}}, and the 2024 {{US Presidential Election}}}
+      \field{urlday}{12}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+    \endentry
+    \entry{tremblay-antoine_etal24}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2d6ff5c0a6c1fa1f001f595b5dd38034}{%
+           family={{Tremblay-Antoine}},
+           familyi={T\bibinitperiod},
+           given={Camille},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb91830007066e62caac34c5247f3f73}{%
+           family={Dufresne},
+           familyi={D\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7171994459c87070e4b09e614ebfcbed}{%
+           family={Cloutier},
+           familyi={C\bibinitperiod},
+           given={Adrien},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {OSF}%
+      }
+      \strng{namehash}{0a721f0e912920bd9d997e0dd3f5cafc}
+      \strng{fullhash}{da50f71f826e8cceace4a17b79e7495c}
+      \strng{fullhashraw}{da50f71f826e8cceace4a17b79e7495c}
+      \strng{bibnamehash}{da50f71f826e8cceace4a17b79e7495c}
+      \strng{authorbibnamehash}{da50f71f826e8cceace4a17b79e7495c}
+      \strng{authornamehash}{0a721f0e912920bd9d997e0dd3f5cafc}
+      \strng{authorfullhash}{da50f71f826e8cceace4a17b79e7495c}
+      \strng{authorfullhashraw}{da50f71f826e8cceace4a17b79e7495c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Pledge {{Salience}}}
+      \field{title}{Pledge {{Salience}}: {{A Scoping Review}} of a {{Non-consensual Concept}}}
+      \field{urlday}{12}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{blais22}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6337358164e54ec14993e85c9734cd13}{%
+           family={Blais},
+           familyi={B\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6337358164e54ec14993e85c9734cd13}
+      \strng{fullhash}{6337358164e54ec14993e85c9734cd13}
+      \strng{fullhashraw}{6337358164e54ec14993e85c9734cd13}
+      \strng{bibnamehash}{6337358164e54ec14993e85c9734cd13}
+      \strng{authorbibnamehash}{6337358164e54ec14993e85c9734cd13}
+      \strng{authornamehash}{6337358164e54ec14993e85c9734cd13}
+      \strng{authorfullhash}{6337358164e54ec14993e85c9734cd13}
+      \strng{authorfullhashraw}{6337358164e54ec14993e85c9734cd13}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Selon une étude, les conservateurs mangent beaucoup de viande et les solidaires sont nombreux à être écoanxieux.}
+      \field{howpublished}{https://www.ledevoir.com/politique/quebec/760221/l-importance-du-climat-varie-selon-l-allegeance-politique}
+      \field{journaltitle}{Le Devoir}
+      \field{langid}{french}
+      \field{month}{9}
+      \field{title}{{L'importance du climat varie selon l'allégeance politique}}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \keyw{journal}
+    \endentry
+    \entry{cadieux23}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {St. Pete Beach, FL, USA}%
+      }
+      \strng{namehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{fullhash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{fullhashraw}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{bibnamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorbibnamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authornamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorfullhash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorfullhashraw}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{On {{Volatility}} and {{Parties}}' {{Potential}} for {{Growth}} in {{Multiparty Systems}}: {{The Case}} of the 2022 {{Quebec Election}}}
+      \field{year}{2023}
+      \true{nocite}
+      \keyw{presentation}
+    \endentry
+    \entry{cadieux24}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Nouvelle-Orléans}%
+      }
+      \strng{namehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{fullhash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{fullhashraw}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{bibnamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorbibnamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authornamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorfullhash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorfullhashraw}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{Forecasting {{Election Swings}} in {{Multiparty Systems Using Underlying Potential}} for {{Growth}} of {{Parties}}}
+      \field{year}{2024}
+      \true{nocite}
+      \keyw{presentation}
+    \endentry
+    \entry{cadieux24a}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Québec (Québec)}%
+      }
+      \strng{namehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{fullhash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{fullhashraw}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{bibnamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorbibnamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authornamehash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorfullhash}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \strng{authorfullhashraw}{d0f1e66a8df8fa2aa36349d8767d8874}
+      \field{extraname}{3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{Optimizing {{Electoral Strategies}} in {{Quebec}}'s {{Multiparty System}}: {{A Machine Learning Approach}} to {{Assessing Party Potential}} for {{Growth}}}
+      \field{year}{2024}
+      \true{nocite}
+      \keyw{presentation}
+    \endentry
+    \entry{cadieux_etal24}{article}{}{}
+      \name{author}{6}{ul=1}{%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c5abcae08c9e658bf290eebc577d246}{%
+           family={Ouellet},
+           familyi={O\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ce38c7ad6df7beed2a98bd411f7b2bb}{%
+           family={Vincent},
+           familyi={V\bibinitperiod},
+           given={Sarah-Jane},
+           giveni={S\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=750f872b84960fe2d76eea63fe5afe1e}{%
+           family={Gilbert},
+           familyi={G\bibinitperiod},
+           given={Jérémy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=408d74359a0748b8a2b5aecb3071e001}{%
+           family={Pelletier},
+           familyi={P\bibinitperiod},
+           given={Camille},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb91830007066e62caac34c5247f3f73}{%
+           family={Dufresne},
+           familyi={D\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f38e2b6412b8e7cabaed4708feed4e49}
+      \strng{fullhash}{f3f0f9cecd15347bd0c312c05c3fe4dd}
+      \strng{fullhashraw}{f3f0f9cecd15347bd0c312c05c3fe4dd}
+      \strng{bibnamehash}{f3f0f9cecd15347bd0c312c05c3fe4dd}
+      \strng{authorbibnamehash}{f3f0f9cecd15347bd0c312c05c3fe4dd}
+      \strng{authornamehash}{f38e2b6412b8e7cabaed4708feed4e49}
+      \strng{authorfullhash}{f3f0f9cecd15347bd0c312c05c3fe4dd}
+      \strng{authorfullhashraw}{f3f0f9cecd15347bd0c312c05c3fe4dd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In the complex landscape of multiparty electoral systems, accurately capturing shifts in voter preferences poses significant challenges. Traditional polling methods, which rely heavily on basic vote intention metrics, often fail to predict substantial changes in voter support. A notable example is the recent resurgence of the Parti Québécois (PQ) in Quebec, which reached levels of support unseen since 1988. This resurgence, alongside other unexpected electoral outcomes, underscores the limitations of conventional forecasting methods. By examining the Quebec political scene post-2022 election, this research note assesses the effectiveness of the Relative Confidence Index (RCI), an innovative yet underutilized metric, in quantifying parties' potential for growth. Findings suggest that the RCI could have provided early insight into the PQ's unexpected resurgence. More broadly, the study argues that the RCI addresses a critical gap in traditional vote choice measurement by offering detailed insights into voter likelihoods and party preferences, thereby fulfilling the need for more accurate and informative measures in multiparty systems.}
+      \field{issn}{1476-3427}
+      \field{journaltitle}{French Politics}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shorttitle}{Electoral Dynamics in {{Quebec}}}
+      \field{title}{Electoral Dynamics in {{Quebec}}: Analyzing the Rise of the {{Parti Québécois}} through the Lens of Potential for Growth}
+      \field{urlday}{16}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1057/s41253-024-00274-z
+      \endverb
+      \verb{file}
+      \verb /home/hubcad25/Dropbox/Zotero/storage/S6QE54UF/Cadieux et al. - 2024 - Electoral dynamics in Quebec analyzing the rise of the Parti Québécois through the lens of potentia.pdf
+      \endverb
+      \keyw{article,Election forecasting,Electoral dynamics,Multiparty systems,Quebec politics,Relative Confidence Index (RCI)}
+    \endentry
+    \entry{dery_etal22}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=201799d0c1f0b90a3b735d2a4e541143}{%
+           family={Déry},
+           familyi={D\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ec758dbc62d4d8f23d8bf059abffc08}{%
+           family={Bibeau},
+           familyi={B\bibinitperiod},
+           given={Alexis},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb91830007066e62caac34c5247f3f73}{%
+           family={Dufresne},
+           familyi={D\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b7c0f790f4501aa028eee3c911bbbebd}
+      \strng{fullhash}{2675571312fc12f13eb1cac8315ef2f3}
+      \strng{fullhashraw}{2675571312fc12f13eb1cac8315ef2f3}
+      \strng{bibnamehash}{2675571312fc12f13eb1cac8315ef2f3}
+      \strng{authorbibnamehash}{2675571312fc12f13eb1cac8315ef2f3}
+      \strng{authornamehash}{b7c0f790f4501aa028eee3c911bbbebd}
+      \strng{authorfullhash}{2675571312fc12f13eb1cac8315ef2f3}
+      \strng{authorfullhashraw}{2675571312fc12f13eb1cac8315ef2f3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Depuis un an, le Parti conservateur du Québec (PCQ) a fait des gains considérables dans les sondages d'intention de vote. Le parti peut-il encore faire des gains ou a-t-il atteint son plein potentiel? Dans cette note de recherche, nous tentons de répondre à cette question en utilisant un nouvel indicateur, l'index relatif de confiance (IRC), qui permet de mesurer le potentiel de croissance et la solidité du vote des partis. , Abstract Over the past year, the Conservative Party of Quebec has made significant gains in polls. Can the party still make gains, or has it reached its full potential? In this research note, we attempt to answer this question using a new indicator, the Relative Confidence Index (RCI), which measures the potential for growth and solidity of the vote based on voters' expressed likelihood to vote for the parties.}
+      \field{issn}{0008-4239, 1744-9324}
+      \field{journaltitle}{Canadian Journal of Political Science/Revue canadienne de science politique}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Sur Le Potentiel de Croissance Du {{Parti}} Conservateur Du {{Québec}}}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{55}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{972\bibrangedash 977}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1017/S0008423922000762
+      \endverb
+      \verb{file}
+      \verb /home/hubcad25/Dropbox/Zotero/storage/JYI3KDU8/Déry et al. - 2022 - Sur le potentiel de croissance du Parti conservate.pdf;/home/hubcad25/Dropbox/Zotero/storage/XBRBCEZT/sur-le-potentiel-de-croissance-du-parti-conservateur-du-quebec.pdf
+      \endverb
+      \keyw{article,Canadian politics,Conservative Party of Quebec,elections,Parti conservateur du Quebec,politique canadienne,politique quebecoise,polling,Quebec politics,sondages}
+    \endentry
+    \entry{descurninges22}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83cb5f89ba0591a2cd3e7fc23a21a7b1}{%
+           family={Descurninges},
+           familyi={D\bibinitperiod},
+           given={Clara},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{fullhash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{fullhashraw}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{bibnamehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authorbibnamehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authornamehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authorfullhash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authorfullhashraw}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Affiches caquistes dégoulinantes de sang, menaces de mort contre la députée libérale Marwah Rizqy et mesures de sécurité accrues pour plusieurs chefs: si le ton de campagne provinciale a pris une tournure hostile, il n'est toutefois pas dit que ces tensions touchent la population générale.}
+      \field{journaltitle}{Journal Métro}
+      \field{langid}{french}
+      \field{month}{9}
+      \field{shorttitle}{{La polarisation en données}}
+      \field{title}{{La polarisation en données: un portrait plus nuancé qu'on pourrait le croire}}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/hubcad25/Dropbox/Zotero/storage/LPXNGEJD/la-polarisation-donnees-portrait-plus-nuance-quon-pourrait-croire.html
+      \endverb
+      \keyw{journal}
+    \endentry
+    \entry{descurninges22a}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83cb5f89ba0591a2cd3e7fc23a21a7b1}{%
+           family={Descurninges},
+           familyi={D\bibinitperiod},
+           given={Clara},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{fullhash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{fullhashraw}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{bibnamehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authorbibnamehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authornamehash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authorfullhash}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \strng{authorfullhashraw}{83cb5f89ba0591a2cd3e7fc23a21a7b1}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{François Legault, qui s'est souvent positionné comme le candidat de l'économie, aborde l'enjeu moins souvent que tous ses adversaires au poste de premier ministre lorsqu'il est en ligne, selon les données de la Chaire de leadership en enseignement des sciences sociales numériques de l'Université Laval (CLESSN).}
+      \field{howpublished}{https://www.lesoleil.com/2022/09/17/legault-evite-de-parler-deconomie-en-ligne-mais-domine-quand-meme-sur-cet-enjeu-96785889a0cdd48da6cb3fda3fbe7c5a/}
+      \field{journaltitle}{Le Soleil}
+      \field{langid}{french}
+      \field{month}{9}
+      \field{title}{{Legault évite de parler d'économie en ligne, mais domine quand même sur cet enjeu}}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/hubcad25/Dropbox/Zotero/storage/HDCZQ3IE/legault-evite-de-parler-deconomie-en-ligne-mais-domine-quand-meme-sur-cet-enjeu-96785889a0cdd48.html
+      \endverb
+      \keyw{journal}
+    \endentry
+    \entry{gajevicsayegh22}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48948d6dfc6e427c8c119df539878977}{%
+           family={Gajevic\bibnamedelima Sayegh},
+           familyi={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Montréal, Qc, Canada}%
+      }
+      \strng{namehash}{48948d6dfc6e427c8c119df539878977}
+      \strng{fullhash}{48948d6dfc6e427c8c119df539878977}
+      \strng{fullhashraw}{48948d6dfc6e427c8c119df539878977}
+      \strng{bibnamehash}{48948d6dfc6e427c8c119df539878977}
+      \strng{authorbibnamehash}{48948d6dfc6e427c8c119df539878977}
+      \strng{authornamehash}{48948d6dfc6e427c8c119df539878977}
+      \strng{authorfullhash}{48948d6dfc6e427c8c119df539878977}
+      \strng{authorfullhashraw}{48948d6dfc6e427c8c119df539878977}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Can {{Fairness}} and {{Green Jobs Accelerate}} the {{Energy Transition}} in {{Canada}}?}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{presentation}
+    \endentry
+    \entry{m_foisy_etal24}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=63c970dca06edc79a61abe01d74f2e94}{%
+           family={M.\bibnamedelimi Foisy},
+           familyi={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Laurence-Olivier},
+           giveni={L\bibinithyphendelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0bb9c44cc373bc1db3cdffe9bc52ce6}{%
+           family={Drouin},
+           familyi={D\bibinitperiod},
+           given={Jérémie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=408d74359a0748b8a2b5aecb3071e001}{%
+           family={Pelletier},
+           familyi={P\bibinitperiod},
+           given={Camille},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96bba75c3bdd350367fbbce79082c642}{%
+           family={Rivest},
+           familyi={R\bibinitperiod},
+           given={Jozef},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb91830007066e62caac34c5247f3f73}{%
+           family={Dufresne},
+           familyi={D\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd5785fc5614bd7169ed845d662937a7}
+      \strng{fullhash}{8369f818739d2ca6272c079c53d0964f}
+      \strng{fullhashraw}{8369f818739d2ca6272c079c53d0964f}
+      \strng{bibnamehash}{8369f818739d2ca6272c079c53d0964f}
+      \strng{authorbibnamehash}{8369f818739d2ca6272c079c53d0964f}
+      \strng{authornamehash}{bd5785fc5614bd7169ed845d662937a7}
+      \strng{authorfullhash}{8369f818739d2ca6272c079c53d0964f}
+      \strng{authorfullhashraw}{8369f818739d2ca6272c079c53d0964f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1933-1681, 1933-169X}
+      \field{journaltitle}{Journal of Information Technology \& Politics}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shorttitle}{Ain't No Party like a {{GPT}} Party}
+      \field{title}{Ain't No Party like a {{GPT}} Party: Assessing {{OpenAI}}'s {{GPT}} Political Alignment Classification Capabilities}
+      \field{urlday}{12}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1080/19331681.2024.2444587
+      \endverb
+      \keyw{article}
+    \endentry
+    \entry{thompson-collart_etal24}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d938c06c213dd9f9d0f2078e02cd1226}{%
+           family={{Thompson-Collart}},
+           familyi={T\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c5abcae08c9e658bf290eebc577d246}{%
+           family={Ouellet},
+           familyi={O\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb91830007066e62caac34c5247f3f73}{%
+           family={Dufresne},
+           familyi={D\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{7bb362caa7ee216e11857b8ce0b7cb17}
+      \strng{fullhash}{ad32c8dcc5472ee14a4e07d185ba069a}
+      \strng{fullhashraw}{ad32c8dcc5472ee14a4e07d185ba069a}
+      \strng{bibnamehash}{ad32c8dcc5472ee14a4e07d185ba069a}
+      \strng{authorbibnamehash}{ad32c8dcc5472ee14a4e07d185ba069a}
+      \strng{authornamehash}{7bb362caa7ee216e11857b8ce0b7cb17}
+      \strng{authorfullhash}{ad32c8dcc5472ee14a4e07d185ba069a}
+      \strng{authorfullhashraw}{ad32c8dcc5472ee14a4e07d185ba069a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{PS: Political Science \& Politics}
+      \field{shorttitle}{Lessons {{Learned}}}
+      \field{title}{Lessons {{Learned}}: {{Citizen Forecasting}}, {{Candidate Resignations}}, and the 2024 {{US Presidential Election}}}
+      \field{urlday}{12}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+    \endentry
+    \entry{tremblay-antoine_etal24}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2d6ff5c0a6c1fa1f001f595b5dd38034}{%
+           family={{Tremblay-Antoine}},
+           familyi={T\bibinitperiod},
+           given={Camille},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0f1e66a8df8fa2aa36349d8767d8874}{%
+           family={Cadieux},
+           familyi={C\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb91830007066e62caac34c5247f3f73}{%
+           family={Dufresne},
+           familyi={D\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7171994459c87070e4b09e614ebfcbed}{%
+           family={Cloutier},
+           familyi={C\bibinitperiod},
+           given={Adrien},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {OSF}%
+      }
+      \strng{namehash}{0a721f0e912920bd9d997e0dd3f5cafc}
+      \strng{fullhash}{da50f71f826e8cceace4a17b79e7495c}
+      \strng{fullhashraw}{da50f71f826e8cceace4a17b79e7495c}
+      \strng{bibnamehash}{da50f71f826e8cceace4a17b79e7495c}
+      \strng{authorbibnamehash}{da50f71f826e8cceace4a17b79e7495c}
+      \strng{authornamehash}{0a721f0e912920bd9d997e0dd3f5cafc}
+      \strng{authorfullhash}{da50f71f826e8cceace4a17b79e7495c}
+      \strng{authorfullhashraw}{da50f71f826e8cceace4a17b79e7495c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Pledge {{Salience}}}
+      \field{title}{Pledge {{Salience}}: {{A Scoping Review}} of a {{Non-consensual Concept}}}
+      \field{urlday}{12}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,1 @@
+$bibtex = 'PATH=$HOME/.TinyTeX/bin/x86_64-linux:$PATH biber %O %B';

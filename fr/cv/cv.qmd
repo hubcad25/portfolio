@@ -1,13 +1,10 @@
 ---
 title: "Hubert Cadieux"
 subtitle: "Scientifique de données sociales numériques"
-#author: "Your Name"
-#date: "`r Sys.Date()`"
 format:
   html:
     css: styles.css
     page-layout: custom
-  pdf: default
 lang: fr
 filters: 
     - multibib
@@ -138,7 +135,6 @@ _Cégep de Saint-Hyacinthe_
 - Acquisition des connaissances de base en algèbre linéaire et calcul différentiel.  
 
 :::
-
 
 </details>
 

@@ -1,0 +1,379 @@
+\documentclass{article}
+\usepackage{bubblecv}
+\usepackage{hyperref}
+\usepackage[style=apa,backend=biber, citestyle=authoryear]{biblatex}
+\renewcommand{\refname}{}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{csquotes}
+\addbibresource{articles.bib}
+\addbibresource{presentations.bib}
+\addbibresource{media.bib}
+
+\defbibfilter{articles}{
+  keyword={article}
+}
+
+
+\SetBgContents{}
+
+\begin{document}
+
+
+\begin{cv}[avatar]{Hubert Cadieux}{Scientifique de données sociales numériques}
+
+
+%\cvsection[summary]{Profile}  %-----------------------------------------------------------
+
+%Highly skilled secret agent with a license to kill. 
+%Bringing together outstanding combat and intelligence abilities with a charismatic and persuasive personality. 
+%A dedicated and adaptable professional committed to global security.
+
+\cvsection[education]{Éducation}  %------------------------------------------------------
+
+\begin{cvevent}[2024][présent]
+    \cvname{Maîtrise en science politique -- avec mémoire}
+    \cvdescription{Université Laval, Ville de Québec}
+    \textbf{Parcours et apprentissages:}
+    \begin{itemize}
+        \item Mémoire de maitrise portant sur l'optimisation du \textit{potentiel de croissance} des partis politiques dans les systèmes multipartites
+        \item Approfondissement sur les domaines suivants de la science politique:
+        \begin{itemize}
+            \item Application de l'apprentissage automatique en science politique
+            \item Application de l'approche bayésienne en science politique
+            \item Analyse quantitative
+            \item Représentation des intérêts politiques
+            \item Communication politique
+            \item Philosophie politique
+        \end{itemize}
+        \item Approfondissement du processus de recherche en science politique quantitative.\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[2020][2023]
+    \cvname{Baccalauréat intégré en économie et politique}
+    \cvdescription{Université Laval, Ville de Québec}
+    \textbf{Parcours et apprentissages:}
+    \begin{itemize}
+        \item Mention d'honneur de la Faculté des sciences sociales
+        \item Suivi du cours \textit{POL-2425 Persuasion et opinion publique} qui a approfondi ma compréhension de l'étude de l'opinion publique.
+        \item Introduction et approfondissement des principales théories de la science politique et économique.
+        \item Acquis des fondamentaux de la recherche en sciences politiques et économiques.
+        \item Conception et développement d'un projet de recherche analysant les perceptions des étudiants de l'Université Laval concernant les aspects économiques du projet de tramway de Québec, impliquant des étapes de conception d'enquête, collecte et analyse de données, et présentation des résultats.\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[2022][2023]
+    \cvname{Diplôme de l'École interdisciplinaire outils et méthodes (EIOM)}
+    \cvdescription{École supérieure d'études internationales (ESEI), Ville de Québec}
+    \textbf{Parcours et apprentissages:}
+    \begin{itemize}
+        \item Suivi du parcours \textit{Distinguer la cause de l'effet : causalité et expérimentation}
+        \item Suivi du parcours \textit{La science des données: modélisation et prédiction}
+        \item Maîtrise de méthodes avancées en analyse et modélisation, incluant la régression multiple, l'apprentissage automatique, la visualisation de données et la réduction de dimensionnalité.
+        \item Acquisition de compétences fondamentales en logique et en structuration causale.
+        \item Développement de compétences en inférence causale à partir de données observationnelles, appliquant des techniques et méthodes telles que les groupes synthétiques, la double différence, la régression par discontinuité et l'appariement (\textit{matching}).\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[2024]
+    \cvname{Programme Validation de l'Innovation et du Potentiel (VIP)}
+    \cvdescription{Entrepreneuriat ULaval, Université Laval, Ville de Québec}
+    \textbf{Parcours et apprentissages:}
+    \begin{itemize}
+        \item Acquisition de notions de base en comptabilité et en prévisions financières
+        \item Développement d'un pitch pour investisseurs\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[2024]
+    \cvname{Programme Validation d'Opportunité d'Affaires (VOA)}
+    \cvdescription{Entrepreneuriat ULaval, Université Laval, Ville de Québec}
+    \textbf{Parcours et apprentissages:}
+    \begin{itemize}
+        \item Approfondir ma réflexion sur mon idée d'affaires.
+        \item Proposition de valeur, analyse de la concurrence.\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[2023]
+    \cvname{Bootcamp sur l'IA}
+    \cvdescription{Institut Intelligence et Données (IID), Université Laval, Ville de Québec}
+    \textbf{Parcours et apprentissages:}
+    \begin{itemize}
+        \item Apprentissage des principes fondamentaux de l'apprentissage automatique et de l'apprentissage profond, avec une mise en pratique utilisant scikit-learn et PyTorch.
+        \item Exploration des concepts et défis liés à l'IA éthique et responsable.
+        \item Initiation aux méthodes d'optimisation des modèles de machine learning, incluant le calcul haute performance et l'optimisation bayésienne.\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[2017][2020]
+    \cvname{Diplôme d'études collégiales (DEC) en sciences humaines - profil administration}
+    \cvdescription{Cégep de Saint-Hyacinthe}
+    \textbf{Parcours et apprentissages:}
+    \begin{itemize}
+        \item Introduction aux principaux domaines des sciences humaines.
+        \item Acquisition des connaissances de base en algèbre linéaire et calcul différentiel.\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+
+
+\cvsection[work]{Expériences de travail}  %------------------------------------------------------
+
+\begin{cvevent}[2024][présent]
+    \cvname{Démarrage de Opubliq}
+    \cvdescription{}
+    \begin{itemize}
+        \item \href{https://opubliq.com/}{Opubliq} est une startup d'analyse de données d'opinion publique que je lance actuellement.
+        \item Conception et prototypage d'un \textbf{Software as a Service (SaaS)} adapté aux besoins des partis politiques municipaux.
+        \item Réseautage actif pour établir des partenariats stratégiques et élargir la portée du projet.
+        \item Mené une étude de marché pour identifier les opportunités et affiner le positionnement du produit.
+        \item Demandes de financement pour une startup.
+        \item Validation des hypothèses par des tests utilisateurs et des entretiens avec des parties prenantes.
+        \item Élaboration d'une stratégie de mise en marché et d'acquisition de clients.\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[Juillet][2025]
+    \cvname{Auxiliaire d'enseignement}
+    \cvdescription{Interactive Visualization, Dashboards, and Apps with R and Shiny, ICPSR Summer Program, Michigan State University, Ann Arbor}
+    \begin{itemize}
+        \item Montage du cours en collaboration avec Yannick Dufresne, enseignant du cours.
+        \item Accompagnement des étudiants lors des séances de laboratoire.\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[2021][présent]
+    \cvname{Auxiliaire de recherche}
+    \cvdescription{Chaire de leadership en enseignement des sciences sociales numériques (CLESSN), Université Laval, Ville de Québec}
+    \begin{itemize}
+        \item Maîtrise du langage de programmation R, avec une application directe dans des contextes théoriques spécifiques.
+        \item Contribution essentielle aux projets phares de la CLESSN: Datagotchi, Polimètre, et Projet Quorum.
+        \item Perfectionnement et application de techniques avancées en analyse de données pour soutenir les projets de recherche et publication.
+        \item Co-rédaction et production de publications académiques, détaillées dans la section \hyperref[sec:publications]{Publications et conférences}.
+        \item Rôle actif dans la conception et mise en œuvre d'une infrastructure logicielle (sur AWS) et d'une plateforme de données spécifiquement adaptées aux besoins et aux défis des sciences sociales numériques.
+        \item Préparation et soumission de demandes de subvention et de demandes d'approbation éthique.
+        \item Collaboration avec des partenaires externes.
+        \item Pour plus de détails sur des projets spécifiques et des réalisations, voir la section \hyperref[sec:realisations]{Réalisations}.\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[2022][2024]
+    \cvname{Scientifique de données}
+    \cvdescription{Mitacs, Musée de la Civilisation du Québec (MCQ), Ville de Québec}
+    \begin{itemize}
+        \item Valorisation des données issues des enquêtes par sondage réalisées par le MCQ.
+        \item Application de techniques d'analyse avancées dans un cas pratique professionnel.
+        \item Rédaction et production de deux rapports stratégiques prescrivant des orientations marketing ciblées pour le MCQ.
+        \item Collaboration et communication active avec l'équipe marketing du MCQ.\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[2023][2024]
+    \cvname{Scientifique de données}
+    \cvdescription{Centre Interdisciplinaire de Recherche sur l'Afrique et le Moyen-Orient (CIRAM), Université Laval, Ville de Québec}
+    \begin{itemize}
+        \item Valorisation d'une base de données sur les dynasties politiques.\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[2022][2024]
+    \cvname{Auxiliaire d'enseignement}
+    \cvdescription{POL-7004 - Analyse quantitative, Université Laval, Ville de Québec}
+    \begin{itemize}
+        \item Correction d'examens et d'exercices.
+        \item Assistance technique aux étudiants.
+        \item Assistance théorique aux étudiants.\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[2023][présent]
+    \cvname{Représentant des étudiants}
+    \cvdescription{Centre de recherche en données massives, Université Laval, Ville de Québec}
+    \begin{itemize}
+        \item Représenter les intérêts des étudiants au sein du centre.
+        \item Participation aux réunions du comité de direction.
+        \item Aider à l'organisation d'évènements sociaux.\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[2021]
+    \cvname{Recherchiste pour le Polimètre}
+    \cvdescription{Centre d'analyse en politiques publiques, Université Laval, Ville de Québec}
+    \begin{itemize}
+        \item Effectuer le suivi des réalisations des promesses du gouvernement Trudeau (2019-2021).
+        \\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[2019][2021]
+    \cvname{Recruteur amateur}
+    \cvdescription{Rangers de Montréal-Est}
+    \begin{itemize}
+        \item Assister à des matchs de Midget AAA.
+        \item Remettre un rapport des joueurs intéressants.
+        \item Préparation au repêchage de la LHJAAAQ.\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+\begin{cvevent}[2023]
+    \cvname{Auxiliaire d'enseignement}
+    \cvdescription{EIOM, ESEI, Ville de Québec}
+    \begin{itemize}
+        \item Assistance technique aux étudiants.\\[10pt]
+    \end{itemize}
+\end{cvevent}
+
+
+
+% \cvsection[publications]{Publications et conférences}
+% \phantomsection
+% \label{sec:publications}
+% %------------------------------------------------------
+
+% \nocite{*}
+% \printbibliography
+
+
+
+\cvsection[bourses]{Bourses obtenues}
+\phantomsection
+\label{sec:bourses}
+%----------------------------------------------------
+\begin{cvevent}[2024][2026]
+    \cvname{Bourse de maîtrise en recherche}
+    \cvdescription{Fonds de recherche du Québec (FRQ), Société et culture}
+\end{cvevent}
+
+\vspace{0.7cm}
+
+\begin{cvevent}[2021][2022]
+    \cvname{Bourse d'appui à la relève - Baccalauréat}
+    \cvdescription{Observatoire international sur les impacts sociétaux de l'IA et du numérique (OBVIA)}
+\end{cvevent}
+
+
+
+
+\cvsection[realisations]{Réalisations}
+\phantomsection
+\label{sec:realisations}
+%------------------------------------------------------
+
+\begin{itemize}
+    \item Fusion de multiples sondages politiques.
+    \item Création du package R \textit{sondr} qui offre des fonctions utiles pour l'analyse de sondages.
+    \item Création de packages R utiles à l'analyse de données de sciences sociales numériques.
+    \item Mentorat d'étudiants novices dans des projets d'analyse de données.
+    \item Membre du Centre d'analyse des politiques publiques (CAPP) et du Groupe de recherche en communication politique (GRCP).
+    \item Formation d'étudiants de la CLESSN à la méthodologie informatique extract-transform-load (ETL) dans un contexte académique.
+    \item Analyste de données dans la création de l'outil de prédiction de vote Datagotchi, qui tente de prédire le vote des individus en se basant strictement sur les habitudes de vie.
+    \item Analyste de données pour la couverture de la campagne électorale québécoise 2022 de la CLESSN en partenariat avec La Presse canadienne.
+    \item Contributions au Projet Quorum – volet transition énergétique : revue de littérature sur les attitudes et perceptions des citoyens, conception d'un sondage pilote de 80 questions et étude de marché pour un développement web.
+    \item Développement d'une application Web facilitant la gestion organisationnelle du Polimètre.
+    \item Programmation d'une analyse conjointe sur le logiciel Qualtrics pour identifier les préjugés des Québécois par rapport aux différentes bases électorales.
+    \item Travail de mise en page pour le manuscrit de l'ouvrage collectif \textit{Bilan du gouvernement de la CAQ : entre nationalisme et pandémie} de Birch et al. paru en 2022.
+    \item Analyse des données de la Fondation Université Laval.
+\end{itemize}
+
+
+\cvsidebar %-----------------------------------------------------------------------------
+
+
+\cvsection[contact]{Coordonnées}  %----------------------------------------------------------
+
+\begin{cvitem}[Envelope][4]
+    \textbf{Courriel}\\
+    \href{mailto:hubertcadieux@opubliq.com}{\texttt{hubertcadieux@opubliq.com}}\\
+    \href{mailto:hubert.cadieux.1@ulaval.ca}{\texttt{hubert.cadieux.1@ulaval.ca}}\\
+    \href{mailto:hubertcadieux@gmail.com}{\texttt{hubertcadieux@gmail.com}}
+\end{cvitem}
+
+\cvseparator[3]
+\begin{cvitem}[Phone][4]
+    \textbf{Cellulaire}\\
+    \href{tel:+4388253958}{\texttt{(438) 825-3958}}
+\end{cvitem}
+
+\cvseparator[3]
+\begin{cvitem}[Home][4]
+    \textbf{Adresse}\\
+    6-70 rue Saint-Louis\\ Ville de Québec, QC, Canada
+\end{cvitem}
+
+\cvseparator[2]
+\begin{cvitem}
+    Twitter: \href{https://twitter.com/HubCadieux25}{@HubCadieux25}
+\end{cvitem}
+
+\begin{cvitem}
+    \href{https://www.linkedin.com/in/hubert-cadieux-7172571a0/}{LinkedIn}
+\end{cvitem}
+
+\begin{cvitem}
+\href{https://scholar.google.com/citations?user=VF6HfPoAAAAJ&hl=fr}{Google Scholar}
+\end{cvitem}
+
+%\cvseparator[3]
+%\begin{cvitem}[Globe][4]
+%    \textbf{Website}\\
+%    \href{https://www.mi6.gov.uk}{\texttt{www.mi6.gov.uk}}
+%\end{cvitem}
+
+
+\cvsection[languages]{Langues}  %--------------------------------------------------------
+
+\cvskill{Français}{Fluide}{1.0}
+\cvskill{Anglais}{Avancé}{0.85}
+
+
+\cvsection[prog]{Languages\linebreak informatiques}  %--------------------------------------------------------
+
+\cvskill{R}{Fluide}{1.0}
+\cvskill{R Shiny}{Fluide}{1.0}
+\cvskill{Markdown}{Avancé}{0.90}
+\cvskill{\LaTeX}{Intermédiaire}{0.75}
+\cvskill{Python}{Intermédiaire}{0.75}
+\cvskill{HTML}{Débutant}{0.25}
+\cvskill{JavaScript}{Débutant}{0.25}
+
+\cvsection[skills]{Compétences}  %-----------------------------------------------------------
+
+\small{
+\begin{cvitem}
+    Analyse de données
+\end{cvitem}
+\begin{cvitem}
+    Analyse bayésienne
+\end{cvitem}
+\begin{cvitem}
+    Modélisation prédictive
+\end{cvitem}
+\begin{cvitem}
+    Computation parallèle en local
+\end{cvitem}
+\begin{cvitem}
+    Visualisation de données avancée
+\end{cvitem}
+\begin{cvitem}
+    Programmation de sondages
+\end{cvitem}
+\begin{cvitem}
+    Création de packages R
+\end{cvitem}
+\begin{cvitem}
+    Mentorat, enseignement
+\end{cvitem}
+\begin{cvitem}
+    Gestion de projet
+\end{cvitem}
+\begin{cvitem}
+    Coordination d'une demande d'approbation éthique
+\end{cvitem}
+}
+
+
+\end{cv}
+
+\end{document}

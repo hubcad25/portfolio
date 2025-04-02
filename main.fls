@@ -1,0 +1,11 @@
+PWD /home/hubcad25/code/portfolio
+INPUT /home/hubcad25/.TinyTeX/texmf.cnf
+INPUT /home/hubcad25/.TinyTeX/texmf-dist/web2c/texmf.cnf
+INPUT /home/hubcad25/.TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT fr/cv/pdf/main.tex
+OUTPUT main.log
+INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/base/article.cls
+INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/base/article.cls
+INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/base/size10.clo
+INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/base/size10.clo
+INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/base/size10.clo
