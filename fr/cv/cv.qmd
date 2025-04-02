@@ -230,7 +230,7 @@ _POL-7004 - Analyse quantitative, Université Laval, Ville de Québec_
 
 ::: {.timeline-item}
 ### Représentant des étudiants  
-**2023 - présent**  
+**2023 - 2024**  
 _Centre de recherche en données massives, Université Laval, Ville de Québec_  
 
 - Représenter les intérêts des étudiants au sein du centre.  
@@ -367,9 +367,7 @@ _Observatoire international sur les impacts sociétaux de l’IA et du numériqu
 
 ::: {.sidebar}
 
-<!---
-[Version PDF](cv.pdf)
---->
+[Version PDF du CV](pdf/main.pdf)
 
 ![](avatar.png){.profile-pic}
 

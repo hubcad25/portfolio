@@ -1,14 +1,14 @@
 # Fdb version 4
-["biber main"] 1743624162.94541 "main.bcf" "main.bbl" "main" 1743624162.9473 2
+["biber main"] 1743625454.41095 "main.bcf" "main.bbl" "main" 1743625454.41254 2
   "articles.bib" 1743621831.24391 5380 ec47294eab1c81e39a9158c0b41c1a52 ""
-  "main.bcf" 1743624162.86032 133487 335676b91445e492cb30842cc56bd712 "pdflatex"
+  "main.bcf" 1743625454.32991 133487 335676b91445e492cb30842cc56bd712 "pdflatex"
   "media.bib" 1743621831.25591 2432 a9d775433737ce14a2a0bd0a40e5144d ""
   "presentations.bib" 1743621831.27591 1692 c8278964452cce990d09abca4f32b408 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1743624161.56962 "/home/hubcad25/code/portfolio/fr/cv/pdf/main.tex" "main.pdf" "main" 1743624162.94742 0
+["pdflatex"] 1743625453.06422 "/home/hubcad25/code/portfolio/fr/cv/pdf/main.tex" "main.pdf" "main" 1743625454.41267 0
   "/home/hubcad25/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc" 1741717525.73564 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/home/hubcad25/.TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/home/hubcad25/.TinyTeX/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm" 1741717525.35564 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
@@ -210,12 +210,12 @@
   "/home/hubcad25/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk" 1743622757.50732 20008 aae9f355c5d802d83a707701cd9ba1d6 ""
   "/home/hubcad25/.TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt" 1743618730 1985202 577230f88b339437a6e3ebaf059bf79f ""
   "/home/hubcad25/.TinyTeX/texmf.cnf" 1741717525.75164 637 edd806fb06a89761a6034e1968af9017 ""
-  "/home/hubcad25/code/portfolio/fr/cv/pdf/main.tex" 1743624159.9003 16462 22f4bdc5b0298c77cfba0888487c74ca ""
+  "/home/hubcad25/code/portfolio/fr/cv/pdf/main.tex" 1743625450.06596 16457 c27c7b02980a78fed8193ee992b69282 ""
   "bubblecv.sty" 1743620615.35373 19243 328ddfec5fb592efcb97fa45fb300838 ""
-  "main.aux" 1743624162.85632 787 c5292c1b9ab5fdad14d2e32dd801c31e "pdflatex"
+  "main.aux" 1743625454.32591 787 c5292c1b9ab5fdad14d2e32dd801c31e "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
-  "main.out" 1743624162.18831 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1743624159.9003 16462 22f4bdc5b0298c77cfba0888487c74ca ""
+  "main.out" 1743625453.65392 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1743625450.06596 16457 c27c7b02980a78fed8193ee992b69282 ""
   "resources/avatar.png" 1743620788.44698 1641833 fa0f2859929856b989e26755d75306f8 ""
   "resources/bourses.png" 1743634374 14677 b8b9a8879a6e28b1a2131f2d4bf9886e ""
   "resources/contact.png" 1743634374 18615 2f7ff4cf2feca34b298c59210daddf91 ""
