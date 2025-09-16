@@ -112,15 +112,9 @@ INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/generic/atbegshi/atbegshi.sty
-INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/atveryend/atveryend.sty
-INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
-INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -304,6 +298,7 @@ INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/generic/babel/locale/fr/babel-frenc
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/generic/babel/locale/fr/babel-fr.ini
+INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/generic/babel-french/french3.ldf
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/carlisle/scalefnt.sty
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/carlisle/scalefnt.sty
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/csquotes/csquotes.sty
@@ -323,6 +318,12 @@ INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.st
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT ./main.out
+INPUT ./main.out
+INPUT main.out
+INPUT main.out
+INPUT ./main.out
+INPUT ./main.out
 OUTPUT main.out
 OUTPUT main.pdf
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/biblatex-apa/french-apa.lbx
@@ -335,6 +336,11 @@ INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/biblatex/lbx/french.lbx
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/biblatex/lbx/french.lbx
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/biblatex/lbx/french.lbx
 OUTPUT main.bcf
+INPUT main.bbl
+INPUT ./main.bbl
+INPUT ./main.bbl
+INPUT ./main.bbl
+INPUT main.bbl
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/psnfss/t1ppl.fd
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/psnfss/t1ppl.fd
 INPUT /home/hubcad25/.TinyTeX/texmf-dist/tex/latex/psnfss/t1ppl.fd
@@ -424,6 +430,7 @@ INPUT /home/hubcad25/.TinyTeX/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
+INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT /home/hubcad25/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk
 INPUT /home/hubcad25/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk
